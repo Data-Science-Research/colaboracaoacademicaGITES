@@ -1,0 +1,17 @@
+nodedef> name VARCHAR, idLattes VARCHAR, label VARCHAR, rotulo VARCHAR, lat DOUBLE, lon DOUBLE, collaborationRank DOUBLE, producaoBibliografica DOUBLE, artigoEmPeriodico DOUBLE, livro DOUBLE, capituloDeLivro DOUBLE, trabalhoEmCongresso DOUBLE, resumoExpandido DOUBLE, resumo DOUBLE, posDoutorado DOUBLE, dutorado DOUBLE, mestrado DOUBLE, ic DOUBLE, color VARCHAR
+0,5813261133047060,Adriano Jose Ferruzzi,[Sem rotulo],,,1.0,9,3,0,0,1,3,2,0,0,0,1,'10,110,164'
+1,1741814375809802,André Luiz Favareto,[Sem rotulo],,,0.15,1,0,0,0,1,0,0,0,0,0,0,'10,110,164'
+2,9543740522912391,Fabio Oliveira Teixeira,[Sem rotulo],,,0.46610892,46,16,0,1,17,8,4,0,0,0,0,'10,110,164'
+3,6413817150886826,Felipe Rodrigues Martinez Basile,[Sem rotulo],,,1.80773,25,14,1,2,5,2,1,0,0,0,5,'10,110,164'
+4,1241031809486285,Jose Osorio de Oliveira Azevedo Neto,[Sem rotulo],,,0.15,0,0,0,0,0,0,0,0,0,0,0,'10,110,164'
+5,8291123108448027,Regivaldo Sousa Ferreira,[Sem rotulo],,,1.0,6,0,0,0,0,6,0,0,0,0,0,'10,110,164'
+6,0270118728577579,Renato Cristiano Montanher,[Sem rotulo],,,0.436102,7,1,0,2,4,0,0,0,0,0,0,'10,110,164'
+7,8754322948547165,Luiz Roberto Albano Junior,[Sem rotulo],,,1.1743804,0,0,0,0,0,0,0,0,0,0,0,'10,110,164'
+8,6109272293288485,Thiago Pedro Donadon Homem,[Sem rotulo],,,1.1156787,44,11,0,3,14,8,8,0,0,0,3,'10,110,164'
+edgedef> node1 VARCHAR, node2 VARCHAR, weight DOUBLE
+0,5,2.0
+2,8,1.0
+3,6,1.0
+3,7,4.0
+3,8,2.0
+6,8,1.0

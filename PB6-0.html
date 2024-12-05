@@ -1,0 +1,191 @@
+
+                <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>teste-01</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"><link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css"><link rel="stylesheet" type="text/css" href="css/dataTables.colVis.min.css"><script type="text/javascript" charset="utf8" src="js/jquery.min.js"></script><script type="text/javascript" charset="utf8" src="js/jquery.dataTables.min.js"></script><script type="text/javascript" charset="utf8" src="js/dataTables.colVis.min.js"></script><script src="http://professor.ufabc.edu.br/~jesus.mena/sorttable.js"></script></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>teste-01</h2></div>
+                
+        <script type="text/javascript" src="./js/jquery.min.js"></script>
+        <!--
+        <script type="text/javascript" src="./highcharts.js"></script>
+        <script type="text/javascript" src="./exporting.js"></script>
+        <script type="text/javascript" src="./drilldown.js"></script>
+        -->
+
+        <script src="https://code.highcharts.com/highcharts.js"></script>
+        <script src="https://code.highcharts.com/modules/drilldown.js"></script>
+        <script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+        <script type="text/javascript">
+        // Load the fonts
+        Highcharts.createElement('link', {
+           href: 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700',
+           rel: 'stylesheet',
+           type: 'text/css'
+        }, null, document.getElementsByTagName('head')[0]);
+
+        Highcharts.theme = {
+   colors: ["#1F77B4", "#118D95", "#8085e9", "#8d4654", "#7798BF", "#aaeeee", "#ff0066", "#eeaaee", "#2b908f", "#90ee7e", "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
+   chart: {
+      backgroundColor: null,
+      style: {
+         fontFamily: "'Source Sans Pro', 'sans-serif'"
+      }
+   },
+   title: {
+      style: {
+         color: 'black',
+         fontSize: '16px',
+         fontWeight: 'bold'
+      }
+   },
+   subtitle: {
+      style: {
+         color: 'black'
+      }
+   },
+   tooltip: {
+      borderWidth: 0
+   },
+   legend: {
+      itemStyle: {
+         fontWeight: 'bold',
+         fontSize: '13px'
+      }
+   },
+   xAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   yAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   plotOptions: {
+      series: {
+         shadow: true
+      },
+      candlestick: {
+         lineColor: '#404048'
+      },
+      map: {
+         shadow: false
+      }
+   },
+
+   // Highstock specific
+   navigator: {
+      xAxis: {
+         gridLineColor: '#D0D0D8'
+      }
+   },
+   rangeSelector: {
+      buttonTheme: {
+         fill: 'white',
+         stroke: '#C0C0C8',
+         'stroke-width': 1,
+         states: {
+            select: {
+               fill: '#D0D0D8'
+            }
+         }
+      }
+   },
+   scrollbar: {
+      trackBorderColor: '#C0C0C8'
+   },
+
+   // General
+   background2: '#E0E0E8'
+};
+
+        Highcharts.setOptions(Highcharts.theme);
+        $(function () {
+            $('#container').highcharts({chart: {type: 'column', 
+height: 300}, 
+title: {text: 'Resumos publicados em anais de congressos'}, 
+subtitle: {text: ''}, 
+xAxis: {title: {text: ''}, 
+type: 'category'}, 
+yAxis: {min: 0, 
+title: {text: 'Quantidade', 
+align: 'middle'}, 
+labels: {overflow: 'justify'}, 
+stackLabels: {enabled: true, 
+format: '{stack}'}}, 
+tooltip: {enabled: true, 
+valueSuffix: '', 
+shared: false, 
+headerFormat: '<span style="font-size: 10px">{point.key}{point.stack}{series.stack}</span><br/>', 
+pointFormat: '<span style="color:{series.color}">\u25CF</span> {series.name}: <b>{point.y}</b><br/>'}, 
+plotOptions: {bar: {dataLabels: {enabled: false}}, 
+column: {stacking: null}, 
+series: {shadow: 'true'}}, 
+legend: {enabled: false, 
+layout: 'vertical', 
+align: 'right', 
+verticalAlign: 'middle', 
+borderWidth: 1, 
+backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor || '#FFFFFF'), 
+shadow: true}, 
+credits: {enabled: false}, 
+series: [{name: 'Total', 
+data: [[2008,
+1],
+[2010,
+2],
+[2011,
+2],
+[2013,
+5],
+[2014,
+1],
+[2017,
+1],
+[2022,
+3]]}]});
+        });
+        </script>
+        
+                <h3>Resumos publicados em anais de congressos</h3> <br>
+                    <div id="container" style="min-width: 310px; max-width: 1920px; height: 300; margin: 0"></div>
+                    Número total de itens: 15<br>
+                    
+                    
+                    <div id="dv-year-2022"><h3 class="year">2022</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>HOMEM, Thiago Pedro Donadon. <b>Transfer Learning Through Qualitate Spatial Reasoning</b>. Em: Representing and Solving Spatial Problems (Dagstuhl Seminar 21492), 2022, Saarbrücken. Dagstuhl Report - Representing and Solving Spatial Problems (Dagstuhl Seminar 21492). Dagstuhl: Schloss Dagstuhl -- Leibniz-Zentrum für Informatik, v. 11, p. 26-27, 2022. <a href="http://dx.doi.org/10.4230/DagRep.11.11.1" target="_blank" style="PADDING-RIGHT:4px;"><img border=0 src="doi.png"></a></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>JARDIM, J. O. ; MARTINHO, G. M. ; FRANCA, L. E. M. ; FRACAROLE, M. S. ; FERRUZZI, A. J.. <b>Plataforma de divulgação sobre cuidados com animais domésticos e de pesquisa de clínicas veterinárias</b>. Em: 13º CONGRESSO DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO IFSP, 2022, São Paulo. CONICT - Congresso de Inovação, Ciência e Tecnologia 13º CONGRESSO DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO IFSP, 2022. </td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>MARQUES, V. G. ; FERRAZ, R. G. ; SOUZA, A. B. S. E. ; FERREIRA, R. S. ; FERRUZZI, A. J.. <b>Desenvolvimento de uma aplicação web para divulgação de conteúdos e ferramentas acerca da cibersegurança</b>. Em: 13º CONGRESSO DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO IFSP, 2022, São Paulo. CONICT - Congresso de Inovação, Ciência e Tecnologia 13º CONGRESSO DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO IFSP, 2022. </td></tr>
+            </table></div><div id="dv-year-2017"><h3 class="year">2017</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>HOMEM, THIAGO P.D.; PERICO, DANILO H. ; Santos, Paulo E. ; BIANCHI, R. A. C. ; de Mantaras, Ramon L.. <b>Qualitative Case-Based Reasoning for Humanoid Robot Soccer</b>. Em: Twenty-Fifth International Conference on Case-Based Reasoning (ICCBR 2017), 2017, Trondheim, Norway. Proceedings of the 24th International Conference on Case-Based Reasoning. Trondheim, Norway, v. 2028, p. 290-290, 2017. </td></tr>
+            </table></div><div id="dv-year-2014"><h3 class="year">2014</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>FERREIRA, V. T. ; HOMEM, Thiago Pedro Donadon. <b>Robótica Educacional: Investigação e Implementação em Plataformas Abertas e Fechadas</b>. Em: II Congresso de Iniciação Científica do IFSP Itapetininga, 2014, Itapetininga. Anais do II Congresso de Iniciação Científica do IFSP Itapetininga. Itapetininga, 2014. </td></tr>
+            </table></div><div id="dv-year-2013"><h3 class="year">2013</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>ARAUJO, G. D. ; TEIXEIRA, F. O. ; Sousa, Fernando Sequeira ; MANCINI, Felipe ; Guimarães, Marcelo de Paiva ; Nunes, Fátima de Lourdes dos Santos ; P., Ivan Torres. <b>Preliminary Results of the Use of Sentiment Analysis in Health Messages on Twitter</b>. Em: AMIA 2013, 2013, Washington. AMIA 2013, 2013. </td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>BASILE, F. R. M.; LOPEZ, L. J. R. ; AMATE, F. C.. <b>Método para transmissão de informações médicas de aplicativos móveis em telemedicina</b>. Em: 6º Congresso de Telemedicina e Telessaúde - Faculdade de Medicina da USP, 2013, São Paulo - SP. Método para transmissão de informações médicas de aplicativos móveis em telemedicina. Rio de Janeiro: J Bras Tele, p. 18-18, 2013. </td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>FLORENTINO, H. O. ; ISLER, P. R. ; RAMOS, R. P. ; NERVIS, J. J. ; HOMEM, Thiago Pedro Donadon. <b>Modelo Matemático para plantio e colheita da cana-de-açúcar</b>. Em: Congresso de Matemática Aplicada e Computacional - CMAC SE, 2013, Bauru, SP. Anais do Congresso de Matemática Aplicada e Computacional - CMAC - SE, p. 21-26, 2013. </td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>LIMA, C. ; BALBO, A. R. ; FLORENTINO, Helenice de Oliveira ; HOMEM, Thiago Pedro Donadon. <b>Um Método híbrido de pontos interiores e branch and bound aplicado ao modelo multiobjetivo de custo de colheita, coleta e aproveitamento de resíduos de cana-de-açúcar</b>. Em: IO 2013 - XVI Congresso da Associação Portuguesa de Investigação Operacional, 2013, Bragança, Portugal. Livro de Atas do XVI Congresso da Associação Portuguesa de Investigação Operacional. -: -, v. 1, p. 201-211, 2013. </td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>VITTI, S. V. ; TEIXEIRA, F. O. ; Sousa, F.S. ; Cohrs, F.M. ; BLASCA, W. Q. ; SIGULEM, Daniel ; P., Ivan Torres. <b>Adults and Elderly Hearing Aids Web-System Development</b>. Em: AMIA 2013 Annual Symposium, 2013, Washington. AMIA Proceedings 2013, 2013. </td></tr>
+            </table></div><div id="dv-year-2011"><h3 class="year">2011</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Sousa, Fernando Sequeira ; MANCINI, Felipe ; TEIXEIRA, F. O. ; Fatima de Lourdes dos Santos Nunes ; P., Ivan Torres. <b>Multi-labeling Health Web Pages: an Approach Based on Category Relevance</b>. Em: AMIA 2011 Annual Symposium, 2011, Washington / USA. AMIA Proceedings, 2011. </td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Teixeira, Fábio Oliveira; HUMMEL, A. D. ; De Domenio, Edvane BL ; Araújo, L.V. ; P., Ivan Torres. <b>Statistical approach for categorizing content in Medical Informatics, Computer Science and Health Domains</b>. Em: AMIA 2011 Annual Symposium, 2011, Washington. AMIA Proceedings, 2011. </td></tr>
+            </table></div><div id="dv-year-2010"><h3 class="year">2010</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>FLORENTINO, Helenice de Oliveira ; HOMEM, Thiago Pedro Donadon ; BALBO, Antonio Roberto ; LIMA, A. D.. <b>An Application of the Hybrid Interior Points and Branch and Bound Methods on the sugarcane Waste Problem</b>. Em: Alio Informs International 2010, 2010, Buenos Ayres. Proceedings of Alio Informs International 2010, 2010. </td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>FLORENTINO, Helenice de Oliveira ; HOMEM, Thiago Pedro Donadon ; LIMA, A. D. ; CARVALHO, L.. <b>Multiobjective 0-1 Integer Programming for the use of Sugarcane Residual Biomass in Energy Cogeneration</b>. Em: Alio Informs International 2010, 2010, Buenos Ayres. Proceedings of Alio Informs International 2010, 2010. </td></tr>
+            </table></div><div id="dv-year-2008"><h3 class="year">2008</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Viana, R. S. ; FLORENTINO, Helenice de Oliveira ; FONSECA FILHO, P. R. ; HOMEM, Thiago Pedro Donadon ; LIMA, E. A. B. F.. <b>Um planejamento otimizado em tomoterapia por programação linear com correção de heterogeneidades</b>. Em: IV Congresso de Física Aplicada à Medicina, 2008, Botucatu. Anais do IV Congresso de Física Aplicada à Medicina, v. 4, 2008. </td></tr>
+            </table></div>
+                    </table>
+                <br><p><br>(*) Relatório criado com produções desde 2000 até 2024
+<br>Data de processamento: 05/12/2024 18:12:55<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V9</a>.         Os resultados podem ser afetados por possíveis falhas decorrentes de inconsistências no preenchimento dos Currículos Lattes. E-mail de contato: <a href="mailto:admin@email.com">admin@email.com</a>         </div> </body></html>
+              

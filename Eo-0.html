@@ -1,0 +1,215 @@
+
+                <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>teste-01</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"><link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css"><link rel="stylesheet" type="text/css" href="css/dataTables.colVis.min.css"><script type="text/javascript" charset="utf8" src="js/jquery.min.js"></script><script type="text/javascript" charset="utf8" src="js/jquery.dataTables.min.js"></script><script type="text/javascript" charset="utf8" src="js/dataTables.colVis.min.js"></script><script src="http://professor.ufabc.edu.br/~jesus.mena/sorttable.js"></script></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>teste-01</h2></div>
+                
+        <script type="text/javascript" src="./js/jquery.min.js"></script>
+        <!--
+        <script type="text/javascript" src="./highcharts.js"></script>
+        <script type="text/javascript" src="./exporting.js"></script>
+        <script type="text/javascript" src="./drilldown.js"></script>
+        -->
+
+        <script src="https://code.highcharts.com/highcharts.js"></script>
+        <script src="https://code.highcharts.com/modules/drilldown.js"></script>
+        <script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+        <script type="text/javascript">
+        // Load the fonts
+        Highcharts.createElement('link', {
+           href: 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700',
+           rel: 'stylesheet',
+           type: 'text/css'
+        }, null, document.getElementsByTagName('head')[0]);
+
+        Highcharts.theme = {
+   colors: ["#1F77B4", "#118D95", "#8085e9", "#8d4654", "#7798BF", "#aaeeee", "#ff0066", "#eeaaee", "#2b908f", "#90ee7e", "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
+   chart: {
+      backgroundColor: null,
+      style: {
+         fontFamily: "'Source Sans Pro', 'sans-serif'"
+      }
+   },
+   title: {
+      style: {
+         color: 'black',
+         fontSize: '16px',
+         fontWeight: 'bold'
+      }
+   },
+   subtitle: {
+      style: {
+         color: 'black'
+      }
+   },
+   tooltip: {
+      borderWidth: 0
+   },
+   legend: {
+      itemStyle: {
+         fontWeight: 'bold',
+         fontSize: '13px'
+      }
+   },
+   xAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   yAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   plotOptions: {
+      series: {
+         shadow: true
+      },
+      candlestick: {
+         lineColor: '#404048'
+      },
+      map: {
+         shadow: false
+      }
+   },
+
+   // Highstock specific
+   navigator: {
+      xAxis: {
+         gridLineColor: '#D0D0D8'
+      }
+   },
+   rangeSelector: {
+      buttonTheme: {
+         fill: 'white',
+         stroke: '#C0C0C8',
+         'stroke-width': 1,
+         states: {
+            select: {
+               fill: '#D0D0D8'
+            }
+         }
+      }
+   },
+   scrollbar: {
+      trackBorderColor: '#C0C0C8'
+   },
+
+   // General
+   background2: '#E0E0E8'
+};
+
+        Highcharts.setOptions(Highcharts.theme);
+        $(function () {
+            $('#container').highcharts({chart: {type: 'column', 
+height: 300}, 
+title: {text: 'Total de organização de eventos'}, 
+subtitle: {text: ''}, 
+xAxis: {title: {text: ''}, 
+type: 'category'}, 
+yAxis: {min: 0, 
+title: {text: 'Quantidade', 
+align: 'middle'}, 
+labels: {overflow: 'justify'}, 
+stackLabels: {enabled: true, 
+format: '{stack}'}}, 
+tooltip: {enabled: true, 
+valueSuffix: '', 
+shared: false, 
+headerFormat: '<span style="font-size: 10px">{point.key}{point.stack}{series.stack}</span><br/>', 
+pointFormat: '<span style="color:{series.color}">\u25CF</span> {series.name}: <b>{point.y}</b><br/>'}, 
+plotOptions: {bar: {dataLabels: {enabled: false}}, 
+column: {stacking: null}, 
+series: {shadow: 'true'}}, 
+legend: {enabled: false, 
+layout: 'vertical', 
+align: 'right', 
+verticalAlign: 'middle', 
+borderWidth: 1, 
+backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor || '#FFFFFF'), 
+shadow: true}, 
+credits: {enabled: false}, 
+series: [{name: 'Total', 
+data: [[2006,
+1],
+[2007,
+2],
+[2013,
+2],
+[2014,
+1],
+[2015,
+1],
+[2022,
+6],
+[2023,
+5]]}]});
+        });
+        </script>
+        
+                <h3>Total de organização de eventos</h3> <br>
+                    <div id="container" style="min-width: 310px; max-width: 1920px; height: 300; margin: 0"></div>
+                    Número total de itens: 27<br>
+                    
+                    
+                    <div id="dv-year-2023"><h3 class="year">2023</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>FERREIRA, R. S.; FERRUZZI, A. J. ; Favareto, A.L. ; ZADI, I. C. ; BASILE, F. R. M. ; ALBANO JUNIOR, L. R.. <b>Desafio GITESTech no TADS</b>. 2023. Outro</td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>BASILE, F. R. M. ; ZADI, I. C. ; FERREIRA, R. S. ; FERRUZZI, A. J. ; FAVARETO, A. L.. <b>GITES na IC com REDES</b>. 2023. Outro</td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>FERRUZZI, A. J.; BASILE, F. R. M. ; FERREIRA, R. S. ; ZADI, I. C. ; FAVARETO, A. L.. <b>Visita técnica à empresa CISCO</b>. 2023. Outro</td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>HOMEM, Thiago Pedro Donadon; PAVIOTTI, C. R. ; RAMOS, L. P. ; ESPERANCA, M. N. ; SILVA, P. H. A. ; SOUZA, D. R. ; ELIAS, G. C.. <b>14º Congresso de Inovação, Ciência e Tecnologia - CONICT</b>. 2023. Congresso</td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>MASCARENHAS, A. P. F. M. ; Homem, T.P.D. ; SIMOES, M. A. C.. <b>20th IEEE Latin American Robotics Symposium - LARS 2023 / 15th Brazilian Symposium on Robotics - SBR 2023</b>. 2023. Congresso</td></tr>
+            </table></div><div id="dv-year-2022"><h3 class="year">2022</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>BASILE, F. R. M. ; RODRIGUES, E. K. ; ALBANO JUNIOR, L. R. ; SOUSA-FERREIRA, REGIVALDO. <b>CyberGITES - Resultados da Cibereducação no Câmpus São Paulo Pirituba</b>. 2022. Outro</td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>TEIXEIRA, F. O. ; BASILE, F. R. M. ; FERREIRA, R. S. ; FERRUZZI, A. J.. <b>SNCT IFSP Campus Pirituba: Mesa redonda - Café com GITES - um olhar sobre a iniciação científica</b>. 2022. Outro</td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>BIANCHI, R. A. C. ; HOMEM, THIAGO P.D. ; SILVA, B. M. F.. <b>19th IEEE Latin American Robotics Symposium - LARS 2022 / 14th Brazilian Symposium on Robotics - SBR 2022</b>. 2022. Congresso</td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>FERRUZZI, A. J. ; TEIXEIRA, F. O. ; BASILE, F. R. M. ; ZADI, I. C. ; FERREIRA, R. S. ; MONTANHER, R. C.. <b>SNCT IFSP Campus Pirituba: Mesa redonda - Café com GITES - um olhar sobre a iniciação científica</b>. 2022. Outro</td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>FERRUZZI, A. J. ; TEIXEIRA, F. O. ; BASILE, F. R. M. ; ZADI, I. C. ; FERREIRA, R. S. ; MONTANHER, R. C.. <b>SNCT IFSP Campus Pirituba: Encontrando valor nos dados</b>. 2022. Outro</td></tr>
+            
+            <tr valign="top"><td>6. &nbsp;</td> <td>TEIXEIRA, F. O. ; BASILE, F. R. M. ; FERREIRA, R. S. ; FERRUZZI, A. J. ; ZADI, I. C.. <b>SNCT IFSP Campus Pirituba: Como é o dia a dia de um Cientista de Dados em um dos maiores bancos do Brasil?</b>. 2022. Outro</td></tr>
+            </table></div><div id="dv-year-2015"><h3 class="year">2015</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>BASILE, F. R. M.; LOPEZ, L. J. R.. <b>I videoconferencia Internacional Brasil-Colômbia sobre Telemedicina e Telessaúde</b>. 2015. Outro</td></tr>
+            </table></div><div id="dv-year-2014"><h3 class="year">2014</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>BASILE, F. R. M.; SILVA, D. P. ; SANTOS, J. A.. <b>Reabilitação Feira + Fórum - uma vida mais feliz</b>. 2014. Exposição</td></tr>
+            </table></div><div id="dv-year-2013"><h3 class="year">2013</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>ALMEIDA, F. A. F. ; LUZ, B. N. ; FLAUSINO, C. M. D. ; DAVILA, C. M. ; PINTO, D. P. ; SANTOS, E. P. ; OLIVEIRA, F. C. ; ALMEIDA, H. M. ; FERREIRA, J. S. ; GODOY, S. A. ; ANDRADE, R. M. ; VALLE JR, R. ; HOMEM, Thiago Pedro Donadon ; MACIEL, V. G.. <b>Semana Nacional de Ciência e Tecnologia. 2013</b>. 2013. </td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>VALLE JR, R. ; ANDRADE, R. M. ; LUZ, B. N. ; MACIEL, V. G. ; DAVILA, C. M. ; SILVEIRA, L. F. S. ; ALMEIDA, H. M. ; OLIVEIRA, F. C. ; GODOY, S. A. ; Homem, Thiago Pedro Donadon ; SOVAT, R. B.. <b>Festival Latino Americano de Instalação de Software Livre</b>. 2013. Festival</td></tr>
+            </table></div><div id="dv-year-2007"><h3 class="year">2007</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Alexys Bruno Alfonso ; VIANNA, Andréa Carla Gonçalves ; KAIBARA, Magda Kimico ; RODRIGUES, José Franciso ; VASCONCELLOS, Luis Antonio da Silva ; SILVA, Márcia Aparecida Zanoli Meira e ; HOMEM, Thiago Pedro Donadon. <b>ERMAC - Encontro Regional de Matemática Aplicada e Computacional</b>. 2007. Congresso</td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>SOUZA, José Luiz de ; BALBO, Antonio Roberto ; BAPTISTA, Edméa Cássia ; BRONDINO, Nair Cristina Margarido ; CHUEIRI, Vanilda Miziara Mello ; CRUZ, Luiz Francisco da ; FEITOSA, Hércules de Araújo ; GONÇALVES, Eliete Maria ; HOMEM, Thiago Pedro Donadon ; KAIBARA, Magda Kimico ; LOCCI, Valter ; MARQUES, Emília de Mendonça Rosa ; NASCIMENTO, Mauri Cunha do ; VASCONCELLOS, Luis Antonio da Silva ; Alexys Bruno Alfonso. <b>15ª ORMUB 2007 - Olimpíada Regional de Matemática da Unesp Bauru</b>. 2007. Outro</td></tr>
+            </table></div><div id="dv-year-2006"><h3 class="year">2006</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>SOUZA, José Luiz de ; LOCCI, Valter ; BALBO, Antonio Roberto ; BAPTISTA, Edméa Cássia ; GONÇALVES, Eliete Maria ; MARQUES, Emília de Mendonça Rosa ; FEITOSA, Hércules de Araújo ; VASCONCELLOS, Luis Antonio da Silva ; CRUZ, Luiz Francisco da ; KAIBARA, Magda Kimico ; NASCIMENTO, Mauri Cunha do ; BRONDINO, Nair Cristina Margarido ; CHUEIRI, Vanilda Miziara Mello ; Alexys Bruno Alfonso ; HOMEM, Thiago Pedro Donadon. <b>14ª ORMUB - Olimpíada Reginal de Matemática da Unesp - Bauru</b>. 2006. Outro</td></tr>
+            </table></div><div id="dv-year-*itens sem ano"><h3 class="year">*itens sem ano</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>ALBANO JUNIOR, L. R.. 24a Olimpíada Brasileira de Informática (OBI2022). 2022. .. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>ALBANO JUNIOR, L. R.. XIX Olimpíada Brasileira de Informática (OBI2017). 2017. .. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>ALBANO JUNIOR, L. R.. XX Olimpíada Brasileira de Informática (OBI2018). 2018. .. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>ALBANO JUNIOR, L. R.. XXV Olimpíada Brasileira de Informática (OBI2023). 2023. .. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>ALBANO JUNIOR, L. R.; ZADI, I. C. ; MONTANHER, R. C.. <b>25a Olimpíada Brasileira de Informática</b>. 0. OBI2023</td></tr>
+            
+            <tr valign="top"><td>6. &nbsp;</td> <td>BASILE, F. R. M.. Maratona CISCO - Fundamentos de Cybersegurança. 2022. (Outro).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>7. &nbsp;</td> <td>HOMEM, Thiago Pedro Donadon. Sala Temática de Informática na II Semana de Ciência e Tecnologia do Campus Boituva. 2013. (Exposição).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>8. &nbsp;</td> <td>MONTANHER, R. C.. SNCT IFSP Campus Pirituba: Encontrando valor nos dados.. 2022. (Outro).. <b></b>. 0. </td></tr>
+            
+            <tr valign="top"><td>9. &nbsp;</td> <td>MONTANHER, R. C.. SNCT IFSP Campus Pirituba: Mesa redonda - Café com GITES - um olhar sobre a iniciação científica.. 2022. (Outro).. <b></b>. 0. </td></tr>
+            </table></div>
+                    </table>
+                <br><p><br>(*) Relatório criado com produções desde 2000 até 2024
+<br>Data de processamento: 05/12/2024 18:12:55<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V9</a>.         Os resultados podem ser afetados por possíveis falhas decorrentes de inconsistências no preenchimento dos Currículos Lattes. E-mail de contato: <a href="mailto:admin@email.com">admin@email.com</a>         </div> </body></html>
+              

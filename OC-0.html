@@ -1,0 +1,371 @@
+
+                <html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>teste-01</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"><link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css"><link rel="stylesheet" type="text/css" href="css/dataTables.colVis.min.css"><script type="text/javascript" charset="utf8" src="js/jquery.min.js"></script><script type="text/javascript" charset="utf8" src="js/jquery.dataTables.min.js"></script><script type="text/javascript" charset="utf8" src="js/dataTables.colVis.min.js"></script><script src="http://professor.ufabc.edu.br/~jesus.mena/sorttable.js"></script></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>teste-01</h2></div>
+                
+        <script type="text/javascript" src="./js/jquery.min.js"></script>
+        <!--
+        <script type="text/javascript" src="./highcharts.js"></script>
+        <script type="text/javascript" src="./exporting.js"></script>
+        <script type="text/javascript" src="./drilldown.js"></script>
+        -->
+
+        <script src="https://code.highcharts.com/highcharts.js"></script>
+        <script src="https://code.highcharts.com/modules/drilldown.js"></script>
+        <script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+        <script type="text/javascript">
+        // Load the fonts
+        Highcharts.createElement('link', {
+           href: 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700',
+           rel: 'stylesheet',
+           type: 'text/css'
+        }, null, document.getElementsByTagName('head')[0]);
+
+        Highcharts.theme = {
+   colors: ["#1F77B4", "#118D95", "#8085e9", "#8d4654", "#7798BF", "#aaeeee", "#ff0066", "#eeaaee", "#2b908f", "#90ee7e", "#55BF3B", "#DF5353", "#7798BF", "#aaeeee"],
+   chart: {
+      backgroundColor: null,
+      style: {
+         fontFamily: "'Source Sans Pro', 'sans-serif'"
+      }
+   },
+   title: {
+      style: {
+         color: 'black',
+         fontSize: '16px',
+         fontWeight: 'bold'
+      }
+   },
+   subtitle: {
+      style: {
+         color: 'black'
+      }
+   },
+   tooltip: {
+      borderWidth: 0
+   },
+   legend: {
+      itemStyle: {
+         fontWeight: 'bold',
+         fontSize: '13px'
+      }
+   },
+   xAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   yAxis: {
+      labels: {
+         style: {
+            color: '#6e6e70'
+         }
+      }
+   },
+   plotOptions: {
+      series: {
+         shadow: true
+      },
+      candlestick: {
+         lineColor: '#404048'
+      },
+      map: {
+         shadow: false
+      }
+   },
+
+   // Highstock specific
+   navigator: {
+      xAxis: {
+         gridLineColor: '#D0D0D8'
+      }
+   },
+   rangeSelector: {
+      buttonTheme: {
+         fill: 'white',
+         stroke: '#C0C0C8',
+         'stroke-width': 1,
+         states: {
+            select: {
+               fill: '#D0D0D8'
+            }
+         }
+      }
+   },
+   scrollbar: {
+      trackBorderColor: '#C0C0C8'
+   },
+
+   // General
+   background2: '#E0E0E8'
+};
+
+        Highcharts.setOptions(Highcharts.theme);
+        $(function () {
+            $('#container').highcharts({chart: {type: 'column', 
+height: 300}, 
+title: {text: 'Total de orientações concluídas'}, 
+subtitle: {text: ''}, 
+xAxis: {title: {text: ''}, 
+type: 'category'}, 
+yAxis: {min: 0, 
+title: {text: 'Quantidade', 
+align: 'middle'}, 
+labels: {overflow: 'justify'}, 
+stackLabels: {enabled: true, 
+format: '{stack}'}}, 
+tooltip: {enabled: true, 
+valueSuffix: '', 
+shared: false, 
+headerFormat: '<span style="font-size: 10px">{point.key}{point.stack}{series.stack}</span><br/>', 
+pointFormat: '<span style="color:{series.color}">\u25CF</span> {series.name}: <b>{point.y}</b><br/>'}, 
+plotOptions: {bar: {dataLabels: {enabled: false}}, 
+column: {stacking: null}, 
+series: {shadow: 'true'}}, 
+legend: {enabled: false, 
+layout: 'vertical', 
+align: 'right', 
+verticalAlign: 'middle', 
+borderWidth: 1, 
+backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor || '#FFFFFF'), 
+shadow: true}, 
+credits: {enabled: false}, 
+series: [{name: 'Total', 
+data: [[2011,
+6],
+[2012,
+1],
+[2013,
+5],
+[2014,
+12],
+[2015,
+3],
+[2016,
+30],
+[2017,
+4],
+[2018,
+1],
+[2019,
+2],
+[2020,
+6],
+[2021,
+11],
+[2022,
+5],
+[2023,
+13]]}]});
+        });
+        </script>
+        
+                <h3>Total de orientações concluídas</h3> <br>
+                    <div id="container" style="min-width: 310px; max-width: 1920px; height: 300; margin: 0"></div>
+                    Número total de itens: 99<br>
+                    
+                    
+                    <div id="dv-year-2023"><h3 class="year">2023</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Adriano de Almeida Pereira. <b>ESCALAFACIL</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de São Paulo, . 2023.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Arthur Lucas Rodrigues. <b>Detecção de Ataques DDoS por Meio de Aprendizado de Máquina</b>. (Graduando em Técnico em redes de computadores integrado ao ensino médio) - Instituto Federal de São Paulo, Instituto Federal de São Paulo. 2023.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5813261133047060">Adriano Jose Ferruzzi</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>DIOGO DUARTE SALGUEIRO. <b>MOVEOUT</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de São Paulo, . 2023.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>Guilherme Farias Galletti. <b>ESCALAFACIL</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de São Paulo, . 2023.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>HENRIQUE WATZECH MILANI. <b>MOVEOUT</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de São Paulo, . 2023.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>6. &nbsp;</td> <td>João Pedro dos Santos Oliveira. <b>Monitoramento Remoto de Biodigestores com Microcontroladores: Uma Abordagem Utilizando Aplicação Web em Tempo Real</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de São Paulo, . 2023.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>7. &nbsp;</td> <td>JOÃO VICTOR OLIVEIRA ARRUDA. <b>MOVEOUT</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de São Paulo, . 2023.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>8. &nbsp;</td> <td>Julio C. A. Nascimento, Victor L. C. Evangelista. <b>Sistema de Otimização de Processos Burocráticos em Centrais de Assistência Médica</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de São Paulo, . 2023.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5813261133047060">Adriano Jose Ferruzzi</a>.</font></td></tr>
+            
+            <tr valign="top"><td>9. &nbsp;</td> <td>Luccas Lopes Silva. <b>ESCALAFACIL</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de São Paulo, . 2023.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>10. &nbsp;</td> <td>Marcus Vinicius Pereira Soares. <b>Implementação de Sistema de Auditoria de Pagamento de Pessoal da Base de Administração e Apoio do Ibirapuera</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de São Paulo, . 2023.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5813261133047060">Adriano Jose Ferruzzi</a>.</font></td></tr>
+            
+            <tr valign="top"><td>11. &nbsp;</td> <td>Veridiana Cabrini Pompone. <b>O Ciclo PDCA aplicado como método de melhoria contínua em uma empresa de engenharia e construção.</b>. (Aperfeiçoamento/Especialização em CURSO ESPECIALIZAÇÃO EM GESTÃO DE PROJETOS) - Instituto Federal de São Paulo - Pirituba, . 2023.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>12. &nbsp;</td> <td>Vinicius M. Vieira, Débora L. M. Almeida, Eduardo M. Silva. <b>Aprendizado de Máquina Aplicado à Análise Preditiva de Mensagens Falsas em Redes Sociais Relacionados a Vacina de Covid-19</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de São Paulo, . 2023.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5813261133047060">Adriano Jose Ferruzzi</a>.</font></td></tr>
+            
+            <tr valign="top"><td>13. &nbsp;</td> <td>Wellington Zanelatto. <b>Monitoramento Remoto de Biodigestores com Microcontroladores: Uma Abordagem Utilizando Aplicação Web em Tempo Real</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de São Paulo, . 2023.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            </table></div><div id="dv-year-2022"><h3 class="year">2022</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Coelho, V.; França, F.; Silva, J.; Sanches, T.; Carvalho, C. <b>Aplicação Web para Divulgação de Formas de Descarte de Resíduos Eletrônicos</b>. (Técnico em redes de computadores integrado ao ensino médio) - Instituto Federal de São Paulo, . 2022.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5813261133047060">Adriano Jose Ferruzzi</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Leonardo Rodrigues, Luis Antonio Nascimento, Thiago Ferreira. <b>AMAAI: aplicativo mobile de assistência às atividades do idoso</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de São Paulo, . 2022.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6413817150886826">Felipe Rodrigues Martinez Basile</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>Martinho, G.; Jardim, J.; França, L.; Fracarole, M. <b>Plataforma de divulgação sobre cuidados com animais domésticos e de pesquisa de clínicas veterinárias</b>. (Técnico em redes de computadores integrado ao ensino médio) - Instituto Federal de São Paulo, . 2022.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5813261133047060">Adriano Jose Ferruzzi</a>.</font></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>Victor G. Marques; Raphaela G. Ferraz; Anna B. S. Santos. <b>Aplicação web para divulgação de conteúdos e ferramentas acerca da cibersegurança</b>. (Técnico em redes de computadores integrado ao ensino médio) - Instituto Federal de São Paulo, . 2022.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5813261133047060">Adriano Jose Ferruzzi</a>.</font></td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>WELLINGTON IDALINO DA SILVA. <b>GESTÃO DE RISCOS EM PROJETOS: ​ estudo de caso de aplicabilidade em uma obra de facilities​</b>. (Aperfeiçoamento/Especialização em Especialização em Gestão de Projetos) - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Câmpus Pi. 2022.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            </table></div><div id="dv-year-2021"><h3 class="year">2021</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Alexandre Pereira Junior. <b>Inteligência Artificial para monitoramento do uso de máscaras de proteção</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. 2021.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>BEATRIZ SILVA PAIXÃO e KATHELEEN CRISTINE GREGORATO. <b>INTELIGÊNCIA ARTIFICIAL PARA A FARMACOVIGILÂNCIA EM POSTAGENS NO TWITTER RELACIONADAS A ANTIDEPRESSIVOS</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. 2021.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>Gabriel Martins dos Santos. <b>Plataforma Virtual para apoio ao Diário de Atividades do exame de MAPA</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de São Paulo, . 2021.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6413817150886826">Felipe Rodrigues Martinez Basile</a>.</font></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>Gabriela de Fatima Barboza da Mota e Larissa Ellen G Marques. <b>B with Me</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. 2021.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>Guilherme B. Quittó, Jonathan D dos Santos e Leandro A Jesus. <b>Mapeamento de estabelecimentos de saúde e comerciais durante a pandemia</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. 2021.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>6. &nbsp;</td> <td>Guilherme Lannes Rodrigues, et al. <b>A Inteligência Artificial - A democratização do acesso às suas informações </b>. (Técnico em redes de computadores integrado ao ensino médio) - Instituto Federal de São Paulo, . 2021.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5813261133047060">Adriano Jose Ferruzzi</a>.</font></td></tr>
+            
+            <tr valign="top"><td>7. &nbsp;</td> <td>Iago Araújo, Victor Moreira dos Santos e Vinicius Augusto. <b>Identificação de manifestações de Clientes de instituições bancárias em redes sociais utilizando inteligência artificial</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. 2021.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>8. &nbsp;</td> <td>Jonatha Domingues Barbosa da Silva , eal. <b>Siadest - Sistema para Alertar Deslizamentos de Terra</b>. (Técnico em redes de computadores integrado ao ensino médio) - Instituto Federal de São Paulo, . 2021.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5813261133047060">Adriano Jose Ferruzzi</a>.</font></td></tr>
+            
+            <tr valign="top"><td>9. &nbsp;</td> <td>Leonardo Lopes Lotaif e Matheus Vinicius de Souz. <b>Análise sobre os quadros de COVID-19 classificados como Síndrome Respiratória Aguda Grave no Brasil</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. 2021.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>10. &nbsp;</td> <td>Lourival M. do Rosario Jr; Bruno A. Paulino da Siva. <b>Aplicativo móvel para compras no atacado</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - IFSP - Campus São Paulo Pirituba, . 2021.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6109272293288485">Thiago Pedro Donadon Homem</a>.</font></td></tr>
+            
+            <tr valign="top"><td>11. &nbsp;</td> <td>s Gustavo Moreira Peleje; Jader Thomé;Júlio C.MRossignoll. <b>Hunterest: Uma proposta de Software para auxílio na busca por refeições em ambientes externos.</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de São Paulo, . 2021.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            </table></div><div id="dv-year-2020"><h3 class="year">2020</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Alexandre Pereira Junior. <b>Estudo de Métodos de Aprendizado Profundo em Problemas de Visão Computacional</b>. (Graduando em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. 2020.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6109272293288485">Thiago Pedro Donadon Homem</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Arthur Henrique Leite Amorim, et al. <b>Realidade virtual no tratamento de pessoas claustrofóbicas</b>. (Técnico em redes de computadores integrado ao ensino médio) - Instituto Federal de São Paulo, . 2020.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/5813261133047060">Adriano Jose Ferruzzi</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>Beatriz G. Costa, Bruno B. Bonatti e Rodrigo H. I. da Silva. <b>Mercado acionário e sua influência nos usuários do Twitter durante o período de pandemia de 2020</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - IFSP - Campus São Paulo Pirituba, . 2020.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6109272293288485">Thiago Pedro Donadon Homem</a>.</font></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>Camila V. L. Baldi, Debora M. Machado e Guilherme S. Moraes. <b>Detecção de aglomerações utilizando o reconhecimento de objetos</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - IFSP - Campus São Paulo Pirituba, . 2020.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6109272293288485">Thiago Pedro Donadon Homem</a>.</font></td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>Larissa Oliveira, Rafael Neves, Matheus Nakano. <b>Ferramenta de e-learning para implementação de LGPD</b>. (Graduação em Tecnólogo em Análise e desenvolvimento de sistemas) - Instituto Federal de São Paulo, . 2020.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6413817150886826">Felipe Rodrigues Martinez Basile</a>.</font></td></tr>
+            
+            <tr valign="top"><td>6. &nbsp;</td> <td>Nadjila Tejo, Lais Sousa, Tainá Alecrim. <b>Proposta de solução mobile para coleta de dados digitais de atenção básica por agentes comunitários de saúde: Caso UBS-Pirituba</b>. (Graduação em Tecnólogo em Análise e desenvolvimento de sistemas) - Instituto Federal de São Paulo, . 2020.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6413817150886826">Felipe Rodrigues Martinez Basile</a>.</font></td></tr>
+            </table></div><div id="dv-year-2019"><h3 class="year">2019</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>LEONARDO DI CREDICO RIBEIRO SILVA. <b>Investigação de métodos de aprendizado por reforço e aplicação no planejamento de trajetória de robôs</b>. (Graduando em Técnico em Redes de Computadores Integrado ao Ensino Médio) - IFSP - Campus São Paulo Pirituba, Conselho Nacional de Desenvolvimento Científico e Tecnológico. 2019.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6109272293288485">Thiago Pedro Donadon Homem</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Nadjila Tejo Machado. <b>Ferramentas de coleta de dados de incidentes de roubo de dados em sistemas de informação gerenciais em telemedicina</b>. (Graduando em Análise e Desenvolvimento de Sistemas) - Instituto Federal de São Paulo, . 2019.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6413817150886826">Felipe Rodrigues Martinez Basile</a>.</font></td></tr>
+            </table></div><div id="dv-year-2018"><h3 class="year">2018</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Felipe Sabino Santana. <b>Sistema de Reconhecimento Facial</b>. (Técnico em Redes de Computadores Integrado ao Ensino Médio) - IFSP - Campus São Paulo Pirituba, . 2018.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6109272293288485">Thiago Pedro Donadon Homem</a>.</font></td></tr>
+            </table></div><div id="dv-year-2017"><h3 class="year">2017</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Geovana Amorim dos Santos e Vanessa Bento Silva. <b>Análise do Processo Evolutivo da Tecnologia Utilizando Microchips em Seres Humanos</b>. (Computação) - Instituto Federal da Bahia, . 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Guilherme da Cruz Castro. <b>Relatório de Estágio Supervisionado</b>. (Computação) - Instituto Federal da Bahia, . 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>José Uilliam Maia Freitas. <b>Relatório de Estágio Supervisionado</b>. (Computação) - Instituto Federal da Bahia, . 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>Rafaela França Fontes. <b>Estágio Supervisionado</b>. (Computação) - Instituto Federal da Bahia, . 2017.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            </table></div><div id="dv-year-2016"><h3 class="year">2016</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>ADONAI MEIRELES BEZERRA JUNIOR. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>ANNIELLE MENDES BRITO DA SILVA. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>ANTONIO CARLOS MOREIRA. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>ARTHUR ALBERTO CORREA TREUHERZ. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>Bruno Afonso Guirado. <b>Extração de Tweets e Análise (Olimpíadas)</b>. (Aperfeiçoamento/Especialização em Pós-graduação em Business Intelligence com Big data) - Faculdade Impacta de Tecnologia, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>6. &nbsp;</td> <td>BRUNO MATTEI. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>7. &nbsp;</td> <td>CAMILA FERNANDES DA SILVA CARVALHO. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>8. &nbsp;</td> <td>David Silva Souza. <b>Relatório de Estágio</b>. (Computação) - Instituto Federal da Bahia, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>9. &nbsp;</td> <td>Deborah Santos Silva. <b>Relatório de Estágio</b>. (Computação) - Instituto Federal da Bahia, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>10. &nbsp;</td> <td>Fernando Marchi Nunes. <b>Base de dados semântica para a política brasileira</b>. (Aperfeiçoamento/Especialização em Pós-graduação em Business Intelligence com Big data) - Faculdade Impacta de Tecnologia, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>11. &nbsp;</td> <td>FILIPI LUIZ MEIRELLES GOMES DE SA. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>12. &nbsp;</td> <td>Gabriel Miranda Rios Accioly. <b>Relatório de Estágio</b>. (Computação) - Instituto Federal da Bahia, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>13. &nbsp;</td> <td>JOSÉ ALEX ALVES DOS SANTOS. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>14. &nbsp;</td> <td>JÚLIO ANTÔNIO MARÇAL SILVA. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>15. &nbsp;</td> <td>KARLA CORONA GUERZE KARLA CORONA GUERZE. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>16. &nbsp;</td> <td>Laiane de Jesus Sampaio. <b>Relatório de Estágio</b>. (Computação) - Instituto Federal da Bahia, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>17. &nbsp;</td> <td>Lemos,A;Hioka,M;Souza,T;Sousa,W;Silva,W. <b>Sistema para controle de estoque de academias: ACADEMIA ERU?S</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Faculdade Impacta de Tecnologia, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>18. &nbsp;</td> <td>LIN HUNG HUA. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>19. &nbsp;</td> <td>Luiz Augusto Alves Azevedo. <b>Extração de Tweets e Análise (Olimpíadas)</b>. (Aperfeiçoamento/Especialização em Pós-graduação em Business Intelligence com Big data) - Faculdade Impacta de Tecnologia, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>20. &nbsp;</td> <td>MARCELO JOSÉ SANCHES. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>21. &nbsp;</td> <td>MARIA AMELIA BELLISARIO DOS SANTOS. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>22. &nbsp;</td> <td>Mariana Rios Cerqueira. <b>Relatório de Estágio Supervisionado</b>. (Computação) - Instituto Federal da Bahia, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>23. &nbsp;</td> <td>Miranda,DS;Silva,FA;Silva,JV;Smuczk,R;Feitosa,R. <b>Sistema de geolocalização e gerenciamento para empresa de moto-frete: Moto frete facility</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Faculdade Impacta de Tecnologia, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>24. &nbsp;</td> <td>Oliveira,AP;Morao,DL;Serqueira,EA;Nogueira,FJ;Pereira,MIC. <b>Sistema de geolocalização e gerenciamento para empresa de moto-frete: Moto frete facility</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Faculdade Impacta de Tecnologia, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>25. &nbsp;</td> <td>RAFAEL MEIJON PALHARES. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>26. &nbsp;</td> <td>RAUL ANTÔNIO MORAIS MELO. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>27. &nbsp;</td> <td>RENATO MATIAS DANTAS. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>28. &nbsp;</td> <td>Rufino,BO;Scarmeloto,NI;Horauti,RY;Yamamoto,TY;Lima,WR. <b>Sistema de Gerenciamento para Empresa do ramo de confeitaria: Graci Bolos</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Faculdade Impacta de Tecnologia, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>29. &nbsp;</td> <td>SERGIO BASSALO PALUDETO. <b>Em construção</b>. (Aperfeiçoamento/Especialização em Informática em Saúde) - Universidade Aberta do Brasil - UNIFESP, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>30. &nbsp;</td> <td>Tauan Rodrigues Queiroz. <b>Desenvolvimento de um E-commerce: WEBSITE + Istagram</b>. (Computação) - Instituto Federal da Bahia, . 2016.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/8291123108448027">Regivaldo Sousa Ferreira</a>.</font></td></tr>
+            </table></div><div id="dv-year-2015"><h3 class="year">2015</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Bavaroti,V;Gonçalves,V;Moreira,R;Adaniya,W;Paias,M;Campos,R. <b>Sistema de Gestão de Empresa de Contabilidade</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Faculdade Impacta de Tecnologia, . 2015.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Fichman,A;Souza,D;Nakamashi,l;Raimundo,M;Oliveira,W. <b>Sistema Integrado de De Gestão Empresarial - Pizzaria Delivery</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Faculdade Impacta de Tecnologia, . 2015.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>Lima,A;Santiago,F;Santos,N. <b>Rede social: Wave</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Faculdade Impacta de Tecnologia, . 2015.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            </table></div><div id="dv-year-2014"><h3 class="year">2014</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>ADILIA MARIA PIRES SCIARRA. <b>Panorama e Aplicabilidade de Um Sistema de Informação por Imagens no Âmbito Hospitalar: PACS</b>. (Aperfeiçoamento/Especialização em Curso de Especialização em Informática em Saúde ? Modalidade a Distância) - Universidade Aberta do Brasil/Universidade Federal de São Paulo, . 2014.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Alessandro dos Santos. <b>Onde estamos?</b>. (Informática) - Instituto Federal de São Paulo, Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. 2014.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6109272293288485">Thiago Pedro Donadon Homem</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>DENISE C M ZORNOFF. <b>USO INOVADOR E CRIATIVO DO TELEFONE CELULAR NO CUIDADO À SAÚDE</b>. (Aperfeiçoamento/Especialização em Curso de Especialização em Informática em Saúde ? Modalidade a Distância) - Universidade Aberta do Brasil/Universidade Federal de São Paulo, . 2014.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>Diego Pereira da Silva. <b>Análise da utilização do aplicativo móvel para pessoas com dificuldade de fala</b>. Iniciação Científica - Universidade de Mogi das Cruzes, . 2014.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6413817150886826">Felipe Rodrigues Martinez Basile</a>.</font></td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>EDUARDO CESAR GUAGLIARDI. <b>Como as Tecnologias de Informação e Comunicação em Saúde podem contribuir para o processo de empoderamento dos pacientes psiquiátricos?</b>. (Aperfeiçoamento/Especialização em Curso de Especialização em Informática em Saúde ? Modalidade a Distância) - Universidade Aberta do Brasil/Universidade Federal de São Paulo, . 2014.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>6. &nbsp;</td> <td>HOWARD LOPES RIBEIRO JUNIOR. <b>Uso de Bases de dados didáticas para o ensino de anatomia no Brasil: uma revisão bibliográfica</b>. (Aperfeiçoamento/Especialização em Curso de Especialização em Informática em Saúde ? Modalidade a Distância) - Universidade Aberta do Brasil/Universidade Federal de São Paulo, . 2014.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>7. &nbsp;</td> <td>IZAILDO TAVARES LUNA. <b>Hipermídia como ferramenta para prática de ensino em enfermagem centrada no aluno</b>. (Aperfeiçoamento/Especialização em Curso de Especialização em Informática em Saúde ? Modalidade a Distância) - Universidade Aberta do Brasil/Universidade Federal de São Paulo, . 2014.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>8. &nbsp;</td> <td>JOÃO GABRIEL DA SILVA MOLINA LOPES. <b>Rede social como ferramenta de propagação de informações sobre saúde</b>. (Aperfeiçoamento/Especialização em Curso de Especialização em Informática em Saúde ? Modalidade a Distância) - Universidade Aberta do Brasil/Universidade Federal de São Paulo, . 2014.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>9. &nbsp;</td> <td>Jéssica Azevedo Santos. <b>Desenvolvimento de aplicativo móvel em teleducação em saúde pública</b>. Iniciação Científica - Universidade de Mogi das Cruzes, . 2014.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6413817150886826">Felipe Rodrigues Martinez Basile</a>.</font></td></tr>
+            
+            <tr valign="top"><td>10. &nbsp;</td> <td>LEANDRA LARA RESENDE DE CARNEIRO. <b>A Mineração de Dados e Texto em Registros Eletrônicos de Saúde Aprimorando o Cuidado Clínico dos Pacientes</b>. (Aperfeiçoamento/Especialização em Curso de Especialização em Informática em Saúde ? Modalidade a Distância) - Universidade Aberta do Brasil/Universidade Federal de São Paulo, . 2014.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>11. &nbsp;</td> <td>MARCIA MARIA PELUSI. <b>Openehr: Os Benefícios para o Sistema de Informação em Saúde de Conteúdo de Domínio Clínico</b>. (Aperfeiçoamento/Especialização em Curso de Especialização em Informática em Saúde ? Modalidade a Distância) - Universidade Aberta do Brasil/Universidade Federal de São Paulo, . 2014.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>12. &nbsp;</td> <td>Vinicius Tarcísio Ferreira. <b>Robótica Educacional: Investigação e implmentação em plataformas abertas e fechadas</b>. (Graduando em Manutenção e Suporte em Informática) - Instituto Federal de São Paulo, Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. 2014.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6109272293288485">Thiago Pedro Donadon Homem</a>.</font></td></tr>
+            </table></div><div id="dv-year-2013"><h3 class="year">2013</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Alessandro dos Santos. <b>Estude na Federal</b>. (Informática) - Instituto Federal de São Paulo, Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. 2013.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6109272293288485">Thiago Pedro Donadon Homem</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Diego Pereira da Silva. <b>Desenvolvimento de Software em Plataforma Android para Auxiliar na Acessibilidade de Pessoas com Dificuldade de Fala</b>. (Graduando em Análise e Desenvolvimento de Sistemas) - Universidade de Mogi das Cruzes, Fundação de Amparo ao Ensino e a Pesquisa. 2013.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6413817150886826">Felipe Rodrigues Martinez Basile</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>Emanueli Caroline Barra Nunez. <b>Estude na Federal</b>. (Informática) - Instituto Federal de São Paulo, Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. 2013.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6109272293288485">Thiago Pedro Donadon Homem</a>.</font></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>Leonardo Braz Marcondes Ribeiro. <b>Estude na Federal</b>. (Informática) - Instituto Federal de São Paulo, Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. 2013.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6109272293288485">Thiago Pedro Donadon Homem</a>.</font></td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>Yeison Camargo. <b>Validação de transmissão de informações médicas em infra-estrutura em saúde para o exercício da telemedicina.</b>. Iniciação Científica - Universidade Militar Nueva Granada, . 2013.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/6413817150886826">Felipe Rodrigues Martinez Basile</a>.</font></td></tr>
+            </table></div><div id="dv-year-2012"><h3 class="year">2012</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Alexandre de Abreu, Eduardo de Abreu e Leandro Perdizo. <b>Sistema acadêmico em dispositivos móveis</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Faculdade Impacta de Tecnologia, . 2012.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            </table></div><div id="dv-year-2011"><h3 class="year">2011</h3> <table>
+            <tr valign="top"><td>1. &nbsp;</td> <td>Brunno dos Santos Leite e Weverton do Couto Timoteo. <b>Manga no Mori</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Faculdade Impacta de Tecnologia, . 2011.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>2. &nbsp;</td> <td>Bruno da Silva e Luiz Henrique Arantes Trovatti. <b>Sistema WEB para Pet Shop</b>. (Graduação em Desenvolvimento de Aplicações para Internet) - Faculdade Impacta de Tecnologia, . 2011.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>3. &nbsp;</td> <td>Bruno Marques Nogueira e Eric Nascimento da Silva. <b>Virtualização de curso Presencial - ENGLISHORTCUT</b>. (Graduação em Análise e Desenvolvimento de Sistemas) - Faculdade Impacta de Tecnologia, . 2011.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>4. &nbsp;</td> <td>Carlos H L Vittor, Diego F Oliveira e Hussani S Oliveira. <b>Sistema Artesanato WEB</b>. (Graduação em Desenvolvimento de Aplicações para Internet) - Faculdade Impacta de Tecnologia, . 2011.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>5. &nbsp;</td> <td>Filipe Ricetti Barbosa de Oliveira, Luan Chigueo Melo Kosaka. <b>Sistema para controle de ordens de serviço de TI</b>. (Graduação em Desenvolvimento de Aplicações para Internet) - Faculdade Impacta de Tecnologia, . 2011.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            
+            <tr valign="top"><td>6. &nbsp;</td> <td>Petar L Neto, Renato R dos Santos e Vinicius S Alves. <b>Sistema Lavanderia WEB</b>. (Graduação em Desenvolvimento de Aplicações para Internet) - Faculdade Impacta de Tecnologia, . 2011.<br><i><font size=-1>Orientador: <a href="http://lattes.cnpq.br/9543740522912391">Fabio Oliveira Teixeira</a>.</font></td></tr>
+            </table></div>
+                    </table>
+                <br><p><br>(*) Relatório criado com produções desde 2000 até 2024
+<br>Data de processamento: 05/12/2024 18:12:55<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V9</a>.         Os resultados podem ser afetados por possíveis falhas decorrentes de inconsistências no preenchimento dos Currículos Lattes. E-mail de contato: <a href="mailto:admin@email.com">admin@email.com</a>         </div> </body></html>
+              

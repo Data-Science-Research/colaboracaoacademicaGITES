@@ -1,0 +1,21 @@
+{
+"nodes":[
+{ "name":"Adriano Jose Ferruzzi", "idlattes":"5813261133047060", "rotulo":"[Sem rotulo]", "collaborationrank":1.0 },
+{ "name":"André Luiz Favareto", "idlattes":"1741814375809802", "rotulo":"[Sem rotulo]", "collaborationrank":0.15000000596046448 },
+{ "name":"Fabio Oliveira Teixeira", "idlattes":"9543740522912391", "rotulo":"[Sem rotulo]", "collaborationrank":0.46610891819000244 },
+{ "name":"Felipe Rodrigues Martinez Basile", "idlattes":"6413817150886826", "rotulo":"[Sem rotulo]", "collaborationrank":1.807729959487915 },
+{ "name":"Jose Osorio de Oliveira Azevedo Neto", "idlattes":"1241031809486285", "rotulo":"[Sem rotulo]", "collaborationrank":0.15000000596046448 },
+{ "name":"Regivaldo Sousa Ferreira", "idlattes":"8291123108448027", "rotulo":"[Sem rotulo]", "collaborationrank":1.0 },
+{ "name":"Renato Cristiano Montanher", "idlattes":"0270118728577579", "rotulo":"[Sem rotulo]", "collaborationrank":0.4361020028591156 },
+{ "name":"Luiz Roberto Albano Junior", "idlattes":"8754322948547165", "rotulo":"[Sem rotulo]", "collaborationrank":1.1743804216384888 },
+{ "name":"Thiago Pedro Donadon Homem", "idlattes":"6109272293288485", "rotulo":"[Sem rotulo]", "collaborationrank":1.1156786680221558 }
+],
+"links":[
+{ "source":0, "target":5, "value":2.0 },
+{ "source":2, "target":8, "value":1.0 },
+{ "source":3, "target":6, "value":1.0 },
+{ "source":3, "target":7, "value":4.0 },
+{ "source":3, "target":8, "value":2.0 },
+{ "source":6, "target":8, "value":1.0 }
+]
+}
