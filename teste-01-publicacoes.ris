@@ -248,6 +248,19 @@ L3  - 2447-8288
 ER  - 
 
 TY  - JOUR
+AU  - Puerta Aponte, Gabriel Alberto ; RAMÍREZ LÓPEZ, LEONARDO JUAN ; RODRIGUEZ GARCIA, ARTURO BENITO
+TI  - Analysis of Colombia's Telemedicine Development, the Postconflict Potential Opportunity
+JO  - Telemedicine and e-Health
+VL  - 26
+IS  - 
+SP  - 24
+EP  - 33
+PY  - 2020
+L2  - http://dx.doi.org/10.1089/tmj.2018.0317
+L3  - 1530-5627
+ER  - 
+
+TY  - JOUR
 AU  - RODRIGUES BASILE, ANDREZZA DA COSTA ; RODRIGUES MARTINEZ BASILE, FELIPE ; RAMÍREZ LÓPEZ, LEONARDO JUAN
 TI  - La robótica creativa para el desarrollo de la cultura Maker inclusiva en la enseñanza fundamental: caso Escuela Municipal de Capistrano de Abreu, en São Paulo, Brasil
 JO  - Revista de Investigación en Educación Militar
@@ -310,6 +323,45 @@ EP  - 24
 PY  - 2019
 L2  - http://dx.doi.org/10.5335/rbceh.v16i1.9751
 L3  - 2317-6695
+ER  - 
+
+TY  - JOUR
+AU  - RAMIREZ LOPEZ, LEONARDO JUAN; PUERTA APONTE, GABRIEL ; RODRIGUEZ GARCIA, ARTURO
+TI  - Internet of Things Applied in Healthcare Based on Open Hardware with Low-Energy Consumption
+JO  - Healthcare Informatics Research
+VL  - 25
+IS  - 
+SP  - 230
+EP  - 
+PY  - 2019
+L2  - http://dx.doi.org/10.4258/hir.2019.25.3.230
+L3  - 2093-3681
+ER  - 
+
+TY  - JOUR
+AU  - RAMÍREZ LÓPEZ, LEONARDO JUAN; RODRIGUEZ GARCIA, ARTURO ; PUERTA APONTE, GABRIEL
+TI  - Internet of things in healthcare monitoring to enhance acquisition performance of respiratory disorder sensors
+JO  - International Journal of Distributed Sensor Networks
+VL  - 15
+IS  - 
+SP  - 155014771984712
+EP  - 10
+PY  - 2019
+L2  - http://dx.doi.org/10.1177/1550147719847127
+L3  - 1550-1477
+ER  - 
+
+TY  - JOUR
+AU  - Rodríguez, Javier ; PRIETO, SIGNED ; RAMÍREZ LÓPEZ, LEONARDO JUAN
+TI  - A novel heart rate attractor for the prediction of cardiovascular disease
+JO  - Informatics in Medicine Unlocked
+VL  - 15
+IS  - 
+SP  - 100174
+EP  - 
+PY  - 2019
+L2  - http://dx.doi.org/10.1016/j.imu.2019.100174
+L3  - 2352-9148
 ER  - 
 
 TY  - JOUR
@@ -456,6 +508,19 @@ L3  - 2180-1843
 ER  - 
 
 TY  - JOUR
+AU  - GUILLEN PINTO, EDWARD PAUL ; RAMIREZ LÓPEZ, LEONARDO ; CIFUENTES SANABRIA, YULI PAOLA
+TI  - Modelo de evaluación de requerimientos de privacidad, seguridad y calidad de servicio para aplicaciones médicas móviles
+JO  - Revista Universidad y Salud
+VL  - 19
+IS  - 
+SP  - 280
+EP  - 292
+PY  - 2017
+L2  - http://dx.doi.org/10.22267/rus.171902.90
+L3  - 0124-7107
+ER  - 
+
+TY  - JOUR
 AU  - HOMEM, Thiago Pedro Donadon; PERICO, D. H. ; SANTOS, PAULO EDUARDO ; BIANCHI, REINALDO AUGUSTO DA COSTA ; DE MANTARAS, RAMON LOPEZ
 TI  - Retrieving and reusing qualitative cases: An application in humanoid-robot soccer
 JO  - AI COMMUNICATIONS
@@ -495,6 +560,19 @@ L3  - 2317-7136
 ER  - 
 
 TY  - JOUR
+AU  - RAMÍREZ LÓPEZ, LEONARDO JUAN; SÁNCHEZ MAHECHA, JEISSON STEVEN ; CIFUENTES SANABRIA, YULI PAOLA
+TI  - Modelo de validación experimental de las aplicaciones Activ y Smca usadas para el autocuidado de la salud
+JO  - Ciencia y Poder Aéreo
+VL  - 12
+IS  - 
+SP  - 192
+EP  - 201
+PY  - 2017
+L2  - http://dx.doi.org/10.18667/cienciaypoderaereo.571
+L3  - 2389-9468
+ER  - 
+
+TY  - JOUR
 AU  - RODRIGUEZ, ARTURO B ; RAMIREZ, LEONARDO J ; BASILE, FELIPE R. M
 TI  - Tecnologías y Educación: Su Percepción Social En Santiago de Chile
 JO  - FORMACIÓN UNIVERSITARIA
@@ -505,6 +583,45 @@ EP  - 76
 PY  - 2017
 L2  - http://dx.doi.org/10.4067/S0718-50062017000600008
 L3  - 0718-5006
+ER  - 
+
+TY  - JOUR
+AU  - RODRIGUEZ, ARTURO B ; RAMIREZ, LEONARDO J ; BASILE, FELIPE R. M
+TI  - Solución Metaheurística para el Problema de Enrutamiento (RWA) en Redes de Ópticas de Multiplexación por División de Longitud de Onda (WDM)
+JO  - INFORMACION TECNOLOGICA
+VL  - 28
+IS  - 
+SP  - 133
+EP  - 146
+PY  - 2017
+L2  - http://dx.doi.org/10.4067/S0718-07642017000600015
+L3  - 0718-0764
+ER  - 
+
+TY  - JOUR
+AU  - RODRÍGUEZ VELÁSQUEZ, JAVIER ; PRIETO, SIGNED ; Leonardo Ramirez
+TI  - Aplicación del método de entropía proporcional para evaluar registros electrocardiográficos
+JO  - Revista Argentina de Cardiologia
+VL  - 85
+IS  - 
+SP  - 103
+EP  - 
+PY  - 2017
+L2  - 
+L3  - 1850-3748
+ER  - 
+
+TY  - JOUR
+AU  - RODRÍGUEZ VELÁSQUEZ, JAVIER ; PRIETO, SIGNED ; RAMÍREZ LÓPEZ, LEONARDO
+TI  - Dinámica cardiaca del adulto evaluada mediante las proporciones de la entropía
+JO  - Revista Universidad y Salud
+VL  - 19
+IS  - 
+SP  - 248
+EP  - 257
+PY  - 2017
+L2  - http://dx.doi.org/10.22267/rus.171902.87
+L3  - 0124-7107
 ER  - 
 
 TY  - JOUR
@@ -547,7 +664,20 @@ L3  - 0719-5303
 ER  - 
 
 TY  - JOUR
-AU  - RODRIGUES MARTINEZ BASILE, FELIPE; CEZAR AMATE, FLÁVIO ; RAMIREZ LÓPEZ, LEONARDO JUAN
+AU  - CAMARGO, YEISON JULIAN ; RAMIREZ, LEONARDO JUAN ; MARTINEZ, ANA KARINA
+TI  - Routing algorithm with QoS constraints for real time multicast communications using particle swarm optimization and genetic meta-optimizer
+JO  - ENGINEERING COMPUTATIONS
+VL  - 33
+IS  - 
+SP  - 344
+EP  - 365
+PY  - 2016
+L2  - http://dx.doi.org/10.1108/EC-10-2014-0205
+L3  - 0264-4401
+ER  - 
+
+TY  - JOUR
+AU  - RODRIGUES MARTINEZ BASILE, FELIPE ; CEZAR AMATE, FLÁVIO ; RAMIREZ LÓPEZ, LEONARDO JUAN
 TI  - Desarrollo colaborativo en Telemedicina y Telesalud para la Educación, la atención y la investigación: Estudio de caso Lab.Sh-Brasil - Tigum-Colombia
 JO  - Academia y Virtualidad
 VL  - 9
@@ -573,6 +703,19 @@ L3  - 0718-0764
 ER  - 
 
 TY  - JOUR
+AU  - RODRÍGUEZ GARCIA, ARTURO BENITO ; RAMIREZ LOPEZ, LEONARDO JUAN ; ESPINOZA OYARZÚN, JAIME CÉSAR
+TI  - RWA: Optical Networks with Heuristics Algorithms
+JO  - DYNA (MEDELLÍN)
+VL  - 83
+IS  - 
+SP  - 165
+EP  - 171
+PY  - 2016
+L2  - http://dx.doi.org/10.15446/dyna.v83n199.53832
+L3  - 0012-7353
+ER  - 
+
+TY  - JOUR
 AU  - Drielle Caroline de OLIVEIRA ; Paulo Henrique Aparecido RODRIGUES ; Rafael Palma SOARES ; Amate, Flávio Cezar
 TI  - Software Development for Telehealth at Blood Donation Centers
 JO  - Applied Mechanics and Materials
@@ -583,6 +726,45 @@ EP  - 200
 PY  - 2015
 L2  - http://dx.doi.org/10.4028/www.scientific.net/AMM.736.196
 L3  - 1662-7482
+ER  - 
+
+TY  - JOUR
+AU  - RAMÍREZ LÓPEZ, LEONARDO JUAN; MARÍN LÓPEZ, ANDRÉS FERNANDO ; CIFUENTES SANABRIA, YULI PAOLA
+TI  - Aplicación de la biotelemetría para tres signos vitales
+JO  - Ciencia y Poder Aéreo
+VL  - 10
+IS  - 
+SP  - 179
+EP  - 186
+PY  - 2015
+L2  - http://dx.doi.org/10.18667/cienciaypoderaereo.428
+L3  - 2389-9468
+ER  - 
+
+TY  - JOUR
+AU  - RODRIGUEZ, ARTURO B ; RAMIREZ, LEONARDO J ; CHAHUAN, JORGE
+TI  - Nueva Generación de Heurísticas para Redes de Fibra Óptica WDM (Wavelength División Multiplexing) bajo Tráfico Dinamico
+JO  - INFORMACION TECNOLOGICA
+VL  - 26
+IS  - 
+SP  - 135
+EP  - 142
+PY  - 2015
+L2  - http://dx.doi.org/10.4067/S0718-07642015000500017
+L3  - 0718-0764
+ER  - 
+
+TY  - JOUR
+AU  - RODRÍGUEZ GARCIA, ARTURO BENITO ; RAMIREZ LOPEZ, LEONARDO ; TRAVIESO TORRES, JUAN CARLOS
+TI  - New Heuristic Algorithm for Dynamic Traffic in WDM Optical Networks
+JO  - Ingenieria e Investigacion
+VL  - 35
+IS  - 
+SP  - 100
+EP  - 106
+PY  - 2015
+L2  - http://dx.doi.org/10.15446/ing.investig.v35n3.51676
+L3  - 0120-5609
 ER  - 
 
 TY  - JOUR
@@ -648,6 +830,19 @@ EP  - 12
 PY  - 2014
 L2  - http://dx.doi.org/10.17411/jacces.v4i1.55
 L3  - 2013-7087
+ER  - 
+
+TY  - JOUR
+AU  - ALTAMIR, VAZ ; FRÈRE, SLAETS ANNIE FRANCE ; LEONARDO, LÓPEZ RAMÍREZ
+TI  - Comparison of body fat in Brazilian adult females by bioelectrical impedance analysis
+JO  - Journal of Physics. Conference Series (Print)
+VL  - 407
+IS  - 
+SP  - 012007
+EP  - 
+PY  - 2012
+L2  - http://dx.doi.org/10.1088/1742-6596/407/1/012007
+L3  - 1742-6588
 ER  - 
 
 TY  - JOUR
@@ -742,6 +937,19 @@ L3  - 0041-1345
 ER  - 
 
 TY  - JOUR
+AU  - RAMIREZ, L J; LOZANO, F A ; RONDON, C R
+TI  - Early detection of ventricular tachycardia with sending messages to cell phone
+JO  - Journal of Physics. Conference Series (Online)
+VL  - 313
+IS  - 
+SP  - 012001
+EP  - 
+PY  - 2011
+L2  - http://dx.doi.org/10.1088/1742-6596/313/1/012001
+L3  - 1742-6596
+ER  - 
+
+TY  - JOUR
 AU  - Sousa, F.S. ; HUMMEL, A. D. ; MACIEL, R.F. ; Cohrs, F.M. ; FALCÃO, A. E. J. ; TEIXEIRA, F. O. ; FALCÃO, AEJ ; BAPTISTA, R. ; MANCINI, F. ; COSTA, T. M. ; ALVES, D. ; PISA, I. T.
 TI  - Application of the Intelligent Techniques in Transplantation Databases: A Review of Articles Published in 2009 and 2010
 JO  - Transplantation Proceedings
@@ -794,6 +1002,19 @@ L3  - 0101-7438
 ER  - 
 
 TY  - JOUR
+AU  - E. F. P. Leme ; LOPEZ, L. J. R. ; Goroso, G.G.
+TI  - Optometric-lab: a Stereophotogrammetry tool for eye movements records
+JO  - WORLD ACADEMY OF SCIENCE, ENGINEERING AND TECHNOLOGY
+VL  - 63
+IS  - 
+SP  - 1
+EP  - 4
+PY  - 2010
+L2  - 
+L3  - 2070-3724
+ER  - 
+
+TY  - JOUR
 AU  - HUMMEL, A. D. ; MACIEL, R.F. ; FALCÃO, A. E. J. ; TEIXEIRA, F. O. ; FALCÃO, AEJ ; MANCINI, F. ; COSTA, T. M. ; Cohrs, F.M. ; Sousa, F.S. ; PISA, I. T.
 TI  - Aplicação de técnicas computacionais em bases de dados de transplante: revisão de artigos publicados no biênio 2007-2007
 JO  - JBT. Jornal Brasileiro de Transplantes
@@ -804,6 +1025,19 @@ EP  - 1048
 PY  - 2010
 L2  - 
 L3  - 1678-3387
+ER  - 
+
+TY  - JOUR
+AU  - LOPEZ, L. J. R.; Goroso, G.G.
+TI  - Monitoring System of Assessment of Energy Expenditure to Human in Free-Living Condition by Mean of TIC
+JO  - Global Telemedicine and eHealth Updates: Knowledge Resources
+VL  - 3
+IS  - 
+SP  - 551
+EP  - 555
+PY  - 2010
+L2  - 
+L3  - 1998-5509
 ER  - 
 
 TY  - JOUR
@@ -858,6 +1092,45 @@ L2  -
 L3  - 1677-499X
 ER  - 
 
+TY  - JOUR
+AU  - LOPEZ, L. J. R.; A.B.William ; B.B. Juan
+TI  - ECG con transmisión inalámbrica vía celular
+JO  - IFMBE Proceedings
+VL  - 18
+IS  - 
+SP  - 932
+EP  - 935
+PY  - 2007
+L2  - http://dx.doi.org/10.1007/978-3-540-74471-9_216
+L3  - 1680-0737
+ER  - 
+
+TY  - JOUR
+AU  - LOPEZ, L. J. R.; B.P. Edson ; C.Y. Duvan
+TI  - Sistema de monitoreo de cardiaco para pilotos de combate en pleno vuelo.
+JO  - IFMBE Proceedings
+VL  - 18
+IS  - 
+SP  - 417
+EP  - 420
+PY  - 2007
+L2  - http://dx.doi.org/10.1007/978-3-540-74471-9_96
+L3  - 1680-0737
+ER  - 
+
+TY  - JOUR
+AU  - LOPEZ, L. J. R.; R. D. Ricardo ; R. B. Mabel
+TI  - Compresión de señales de ECG mediante transformada wavelet con algoritmo MSPITH-1D
+JO  - IFMBE Proceedings
+VL  - 18
+IS  - 
+SP  - 9
+EP  - 12
+PY  - 2007
+L2  - http://www.scopus.com/scopus/inward/citedby.url?partnerID=bb5nvXTn&rel=R6.0.0&doi=10.1007/978-3-540-74471-9&md5=ad554b72fe50def921911471eea87795
+L3  - 1680-0737
+ER  - 
+
 TY  - BOOK
 AU  - MACHADO, N. T
 TI  - Recreação e Lazer
@@ -899,12 +1172,22 @@ EP  -
 ER  - 
 
 TY  - BOOK
-AU  - Martinêz, F. B. Rodrigues; AMATE, F. C. (Org.)
+AU  - Lopez, L. J. R.; Goroso, D. G. (Org.) ; Battistella, L. M. (Org.)
 TI  - IFMBE Proceedings
 IS  - 33
 PY  - 2013
-VL  - 
-SP  - 
+VL  - 33
+SP  - 2115
+EP  - 
+ER  - 
+
+TY  - BOOK
+AU  - LOPEZ, L. J. R.; Goroso, G.G. (Org.)
+TI  - GLOBAL TELEMEDICINE AND eHEALTH: KNOWLEDGE RESOURCES
+IS  - 3
+PY  - 2010
+VL  - 3
+SP  - 608
 EP  - 
 ER  - 
 
@@ -945,6 +1228,18 @@ EP  - 162
 ER  - 
 
 TY  - CHAP
+AU  - RAMIREZ LOPEZ, LEONARDO JUAN; Puerta Aponte, Gabriel Alberto
+T1  - Fog Computing and Edge Computing for the Strengthening of Structural Monitoring Systems in Health and Early Warning Score Based on Internet of Things. Advances in Computer and Electrical Engineering. 1ed.EEUU
+TI  - 
+IS  - 
+PB  - IGI Global
+PY  - 2020
+VL  - 1
+SP  - 59
+EP  - 83
+ER  - 
+
+TY  - CHAP
 AU  - BASILE, F. R. M.; MARIOTO, R. ; MARTINS, T. H. B.
 T1  - inclusão digital para terceira idade na comunidade de Pirituba-SP - experiência de implementação de curso livre de extensão
 TI  - Emerson Freire; Juliana Augusta Verona; Sueli Soares dos Santos Batista (orgs.). (Org.). Educação profissional e tecnológica - Extensão e Cultura. 1ed.Jundiaí
@@ -957,6 +1252,30 @@ EP  - 164
 ER  - 
 
 TY  - CHAP
+AU  - Guillén, Edward ; Sánchez, Jeisson ; RAMÍREZ LÓPEZ, LEONARDO
+T1  - IoT Protocol Model on Healthcare Monitoring
+TI  - Regional Council of Biomedical Engineering for Latin America (CORAL). (Org.). IFMBE Proceedings. 1ed.Singapur
+IS  - 
+PB  - Springer Singapore
+PY  - 2017
+VL  - 60
+SP  - 193
+EP  - 196
+ER  - 
+
+TY  - CHAP
+AU  - Rodríguez, Javier ; RAMÍREZ, LEONARDO ; PRIETO, SIGNED ; Correa, Catalina
+T1  - Cardiac dynamic assessment through entropy proportions and probability
+TI  - Regional Council of Biomedical Engineering for Latin America (CORAL). (Org.). IFMBE Proceedings. 1ed.Singapur
+IS  - 
+PB  - Springer Singapore
+PY  - 2017
+VL  - 60
+SP  - 153
+EP  - 156
+ER  - 
+
+TY  - CHAP
 AU  - Homem, Thiago P. D.; PERICO, DANILO H. ; Santos, Paulo E. ; Bianchi, Reinaldo A. C. ; de Mantaras, Ramon L.
 T1  - Qualitative Case-Based Reasoning for Humanoid Robot Soccer: A New Retrieval and Reuse Algorithm
 TI  - Goel A.; Díaz-Agudo M.; Roth-Berghofer T.. (Org.). Lecture Notes in Computer Science. 1ed
@@ -966,6 +1285,18 @@ PY  - 2016
 VL  - 9969
 SP  - 170
 EP  - 185
+ER  - 
+
+TY  - CHAP
+AU  - RODRIGUEZ, ARTURO ; Fernández, Washington ; RAMÍREZ, LEONARDO
+T1  - RWA: Novel Heuristic Algorithm for Optical Networks with Dynamic Traffic
+TI  - ICOCOE 2015. (Org.). Lecture Notes in Electrical Engineering. 1ed.Switzerland
+IS  - 
+PB  - Springer International Publishing
+PY  - 2016
+VL  - 362
+SP  - 1
+EP  - 10
 ER  - 
 
 TY  - CHAP
@@ -1134,6 +1465,39 @@ M1  - 01 nov. 2018
 ER  - 
 
 TY  - MGZN
+AU  - LOPEZ, L. J. R.; Goroso, G.G.
+T1  - UMC: Pesquisa desenvolve sistema para prevenção de doenças
+TI  - ANUP Associação Nacional das Universidades Particulares, Brasilia
+PY  - 2010
+VL  - 
+SP  - 3
+EP  - 4
+M1  - 09 abr. 2010
+ER  - 
+
+TY  - MGZN
+AU  - LOPEZ, L. J. R.; Goroso, G.G.
+T1  - Pesquisadores Desenvolven Sistema que poderá salvar milhões de vidas
+TI  - Jornal Mogi News, Cidade
+PY  - 2010
+VL  - 
+SP  - 7
+EP  - 7
+M1  - 06 abr. 2010
+ER  - 
+
+TY  - MGZN
+AU  - LOPEZ, L. J. R
+T1  - El comercio
+TI  - El ritmo cardiaco de los pilotos puede ser evaluado en tierra / Ciencia t tecnologia, Ecuador
+PY  - 2007
+VL  - 
+SP  - 18
+EP  - 18
+M1  - 16 jul. 2007
+ER  - 
+
+TY  - MGZN
 AU  - TEIXEIRA, F. O
 T1  - Diebold Procomp - Mais Informações menos custo
 TI  - Revista Microsoft Business nº 31
@@ -1141,6 +1505,17 @@ PY  - 0
 VL  - 
 SP  - 
 EP  - 
+M1  - 
+ER  - 
+
+TY  - MGZN
+AU  - VENTURA, J. B. ; Leonardo Ramirez
+T1  - APLICAÇÃO DE SISTEMA MULTICANAL NA DETECÇÃO DE QUEDAS PARA IDOSOS
+TI  - Revista Brasileira de Inovação Tecnológica em Saúde, Sao Paulo
+PY  - 0
+VL  - 
+SP  - 38
+EP  - 47
 M1  - 
 ER  - 
 
@@ -1409,6 +1784,17 @@ L2  - http://dx.doi.org/10.1109/bracis.2017.63
 ER  - 
 
 TY  - CONF
+AU  - RODRIGUEZ, ARTURO ; RAMÍREZ, LEONARDO ; MARTÍNEZ, JOSÉ
+T1  - UNDERSTANDING THROUGH ACTIVE METHODOLOGIES
+TI  - International Technology
+VL  - N/A
+SP  - 1993
+EP  - 1999
+PY  - 2017
+L2  - http://dx.doi.org/10.21125/inted.2017.0060
+ER  - 
+
+TY  - CONF
 AU  - BAGÉ, I. B
 T1  - A formação continuada de professores a distância: Um olhar sobre o curso de ingressantes oferecido aos docentes de Matemática do Estado de São Paulo
 TI  - XII Encontro Nacional de Educação Matemática
@@ -1472,6 +1858,17 @@ SP  - 353
 EP  - 
 PY  - 2016
 L2  - http://dx.doi.org/10.1145/3019943.3019994
+ER  - 
+
+TY  - CONF
+AU  - RAMIREZ LOPEZ, LEONARDO JUAN; JAIMES, NORMAN EDUARDO ; CIFUENTES, YULI PAOLA
+T1  - MOBILE TECHNOLOGIES, AS A RESOURCE EDUCATIONAL TOOL FOR THE PROMOTION OF HEALTH EDUCATION
+TI  - International Technology
+VL  - 9
+SP  - 7818
+EP  - 7826
+PY  - 2016
+L2  - http://dx.doi.org/10.21125/iceri.2016.0792
 ER  - 
 
 TY  - CONF
@@ -1574,6 +1971,28 @@ L2  - http://dx.doi.org/10.1007/978-3-642-40654-6_24
 ER  - 
 
 TY  - CONF
+AU  - L.J.R. Lopez; DURANGO, K. M.
+T1  - Integrated Model for Standardization of Electronic Medical Records by Levels of Hospital in the Telehealth Center in Colombia
+TI  - Med-e-tel 2013
+VL  - 6
+SP  - 364
+EP  - 368
+PY  - 2013
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - L.J.R. Lopez; VANEGAS, Y. P.
+T1  - Integration Model Applied to Healthcare Services
+TI  - Med-e-tel 2013
+VL  - 6
+SP  - 90
+EP  - 94
+PY  - 2013
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - BAGÉ, I. B.; DIAS, F. A. S.
 T1  - A contribuição de objetos de aprendizagem na formação de professores de Matemática da Educação Básica Brasileira
 TI  - VII Congresso Iberoamericano de Docência Universitária
@@ -1629,6 +2048,17 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - LOPEZ, L. J. R.; Goroso, G.G. ; BATTISTELLA, L. R.
+T1  - A Customizable Mobile Tool to Promote Healt and Prevent Non - Communicable Diseases
+TI  - THE INTERNATIONAL eHEALTH
+VL  - 5
+SP  - 493
+EP  - 497
+PY  - 2012
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - Rogério Aparecido Campanari Xavier; Franco Eusébio Garcia ; Vania Paula de Almeida Neris
 T1  - Decisões de design de interfaces ruins e o impacto delas na interação: um estudo preliminar considerando o estado emocional de idosos
 TI  - Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais
@@ -1657,6 +2087,17 @@ TI  - WIM2012 - XII Workshop de Informática Médica / XXXII Congresso da Socied
 VL  - 
 SP  - 
 EP  - 
+PY  - 2012
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VENTURA, J. B. ; Goroso, G.G. ; L.J.R. Lopez
+T1  - Biotelemetry Tool for Healthcare in Local Area
+TI  - Med-e-tel 2012
+VL  - 5
+SP  - 548
+EP  - 552
 PY  - 2012
 L2  - 
 ER  - 
@@ -1717,6 +2158,17 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - E. F. P. Leme ; LOPEZ, L. J. R. ; Goroso, G.G.
+T1  - Aplicação da Oftalmografia por videogrametria em Exames para Detecção de Estrabismos
+TI  - XXII Congresso Brasileiro Engenharia Biomedica
+VL  - 
+SP  - 77
+EP  - 78
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - FALCÃO, A. E. J. ; M., Felipe ; TEIXEIRA, F. O. ; Fernando Sequeira Sousa ; HUMMEL, A. D. ; Sigulem, Daniel ; PISA, I. T.
 T1  - Analysis of the Use of Social Media for Adequacy Evaluation of Health Related Websites Based on Health on Net Code
 TI  - 13th World Congress on Medical and Health Informatics
@@ -1767,6 +2219,72 @@ TI  - XII Congresso Brasileiro de Informática em Saúde - CBIS 2010
 VL  - 
 SP  - 
 EP  - 
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - LOPEZ, L. J. R.; Goroso, G.G.
+T1  - Body heat loss by radiation and relation to energy expenditure under free-living conditions
+TI  - XV Simposio de Tratamiento de Señales
+VL  - 
+SP  - 120
+EP  - 125
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - LOPEZ, L. J. R.; Goroso, G.G.
+T1  - Monitoring System of Assessment of Energy Expenditure to Human in Free-living Condition by Mean of Information and Communication Technologies
+TI  - Med-e-Tel 2010
+VL  - 3
+SP  - 551
+EP  - 555
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - LOPEZ, L. J. R.; Goroso, G.G.
+T1  - A Telemedicine Tool for Targeting and Evaluating Stroke Prevention
+TI  - Global Telehealth 2010
+VL  - 161
+SP  - 57
+EP  - 59
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - LOPEZ, L. J. R.; Goroso, G.G.
+T1  - TOOL FOR STROKE PREVENTION
+TI  - XXII Congresso Brasileiro Engenharia Biomedica
+VL  - 
+SP  - 69
+EP  - 70
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - LOPEZ, L. J. R.; Goroso, G.G.
+T1  - A NEW MODEL FOR THE ASSESSMENT OF ENERGY EXPENDITURE UNDER FREE-LIVING CONDITIONS
+TI  - XXII Congresso Brasileiro Engenharia Biomedica
+VL  - 
+SP  - 92
+EP  - 93
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - LOPEZ, L. J. R.; Goroso, G.G.
+T1  - FLEEM: Arquitectura Orientada al Seguimiento del Gasto Energetico Diario en Ambiente Libre
+TI  - XII Congresso Brasileiro de Informática em Saúde
+VL  - 
+SP  - 508
+EP  - 512
 PY  - 2010
 L2  - 
 ER  - 
@@ -2564,6 +3082,17 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - Goroso, G.G. ; LOPEZ, L. J. R. ; Sabag Livia
+T1  - Ferramenta de Diagnóstico para Prevenção do Accidente Vascular Encefálico
+TI  - XXII Congresso Brasileiro de Medicina Física e Reabilitação, 2010, São Paulo. Acta Fisiatrica (USP). Sao Paulo: Instituto de Medicina Física e Reabilitação do HC
+VL  - 01
+SP  - 90
+EP  - 91
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - HOMEM, Thiago Pedro Donadon; BALBO, Antonio Roberto ; FLORENTINO, Helenice de Oliveira ; VIANNA, Andréa Carla Gonçalves
 T1  - Application of a Hybrid Procedure Involving the Primal-Dual Interior Point Method and the Branch and Bound Method in the Sugarcane Trash Utilization Problems
 TI  - 7th Dincon - 7th Brazilian Conference on Dynamics, Control and Applications, 2008, Presidente Prudente - SP. Anais do 7th DINCON. Presidente Prudente - SP
@@ -2814,6 +3343,18 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - Leonardo J. Ramirez L.; ALVAREZ, D. A. P.
+T1  - Health Applications in Mobile Devices
+TI  - The 18th ISfTeH International Conference in Japan, 2013, Takamatsu. Proceeding of 18th ISfTeH International Conference in Japan. Takamatsu: Japanese Telemedicine and Telecare Association
+VL  - 1
+IS  - 
+SP  - 82
+EP  - 82
+PY  - 2013
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - LIMA, C. ; BALBO, A. R. ; FLORENTINO, Helenice de Oliveira ; HOMEM, Thiago Pedro Donadon
 T1  - Um Método híbrido de pontos interiores e branch and bound aplicado ao modelo multiobjetivo de custo de colheita, coleta e aproveitamento de resíduos de cana-de-açúcar
 TI  - IO 2013 - XVI Congresso da Associação Portuguesa de Investigação Operacional, 2013, Bragança, Portugal. Livro de Atas do XVI Congresso da Associação Portuguesa de Investigação Operacional. -: -
@@ -2870,6 +3411,18 @@ IS  -
 SP  - 
 EP  - 
 PY  - 2013
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - LOPEZ, L. J. R.; Goroso, G.G. ; BATTISTELLA, L. R.
+T1  - Sensor network for assessment of energy expenditure design based on android platform
+TI  - XVI Brazilian Congress of Medical Physics and V Instrumentation and Medical Imaging Symposium, 2011, Porto Alegre. Revista Brasileira de Física Médica (Online). Sao Paulo: Brazilian Journal of Medical Physics
+VL  - 5
+IS  - 
+SP  - 54
+EP  - 54
+PY  - 2011
 L2  - 
 ER  - 
 
