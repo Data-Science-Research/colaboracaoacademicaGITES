@@ -1,6 +1,32 @@
 
 
 TY  - JOUR
+AU  - OLIVEIRA, GC ; AMATE, F.C.
+TI  - Implementation of Linux-Based POS Solutions: A Low-Cost Alternative for the Retail Sector
+JO  - INTERNATIONAL JOURNAL OF ENGINEERING RESEARCH AND DEVELOPMENT
+VL  - 20
+IS  - 
+SP  - 8
+EP  - 12
+PY  - 2024
+L2  - 
+L3  - 2278-067X
+ER  - 
+
+TY  - JOUR
+AU  - LIMA, CÉSAR ALEXANDRE SILVA ; MARTINI, SILVIA CRISTINA ; DOS SANTOS, CLAYTON EDUARDO ; BISSACO, MÁRCIA APARECIDA SILVA ; AMATE, FLÁVIO CÉZAR ; GIANCOLI, ANA PAULA MULLER ; DA SILVA, ALESSANDRO PEREIRA ; SCARDOVELLI, TERIGI AUGUSTO ; BOSCHI, SILVIA REGINA MATOS DA SILVA
+TI  - TRANSFERÊNCIA DE APRENDIZADO PARA CATEGORIZAÇÃO DE PATOLOGIAS
+JO  - CONTEMPORÂNEA - REVISTA DE ÉTICA E FILOSOFIA POLÍTICA
+VL  - 3
+IS  - 
+SP  - 13857
+EP  - 13878
+PY  - 2023
+L2  - http://dx.doi.org/10.56083/RCV3N9-022
+L3  - 2447-0961
+ER  - 
+
+TY  - JOUR
 AU  - RODRIGUES, A. L. ; CASAGRANDE, H. F. ; GOMES, J. P. M. ; PASSOS, P. L. A. ; FERRUZZI, A. J. ; FERREIRA, R. S.
 TI  - Detecção de Ataques DDoS por Meio de Aprendizado de Máquina
 JO  - Qualif
@@ -11,6 +37,19 @@ EP  - 231
 PY  - 2023
 L2  - 
 L3  - 2595-2277
+ER  - 
+
+TY  - JOUR
+AU  - CUNHA, BRUNA C.R.; CARVALHO, M. A. G.
+TI  - Mineração de dados no âmbito dos filtros bolha no compartilhamento de fake news: Revisão da literatura e proposta de mecanismos de prevenção
+JO  - Revista Ciência em Evidência
+VL  - 3
+IS  - 
+SP  - e022004
+EP  - 
+PY  - 2022
+L2  - http://dx.doi.org/10.47734/rce.v3i1.2032
+L3  - 2763-5457
 ER  - 
 
 TY  - JOUR
@@ -27,6 +66,19 @@ L3  - 2595-2277
 ER  - 
 
 TY  - JOUR
+AU  - CUNHA, BRUNA CAROLINA RODRIGUES; RODRIGUES, KAMILA RIOS DA HORA ; ZAINE, ISABELA ; DA SILVA, ELIAS ADRIANO NOGUEIRA ; VIEL, CAIO CÉSAR ; PIMENTEL, MARIA DA GRAÇA CAMPOS
+TI  - Experience Sampling and Programmed Intervention Method and System for Planning, Authoring, and Deploying Mobile Health Interventions: Design and Case Reports
+JO  - JOURNAL OF MEDICAL INTERNET RESEARCH
+VL  - 23
+IS  - 
+SP  - e24278
+EP  - 
+PY  - 2021
+L2  - http://dx.doi.org/10.2196/24278
+L3  - 1438-8871
+ER  - 
+
+TY  - JOUR
 AU  - DA SILVA, ISAAC JESUS ; PERICO, D. H. ; HOMEM, Thiago Pedro Donadon ; DA COSTA BIANCHI, REINALDO AUGUSTO
 TI  - Deep Reinforcement Learning for a Humanoid Robot Soccer Player
 JO  - JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS
@@ -37,6 +89,19 @@ EP  -
 PY  - 2021
 L2  - http://dx.doi.org/10.1007/s10846-021-01333-1
 L3  - 0921-0296
+ER  - 
+
+TY  - JOUR
+AU  - TEJO-MACHADO, NADJILA ; RODRIGUES-MARTINEZ-BASILE, FELIPE ; CEZAR-AMATE, FLAVIO ; RAMÍREZ-LÓPEZ, LEONARDO JUAN
+TI  - Protocolo de informática forense ante ciberincidentes en telemedicina para preservar información como primera respuesta
+JO  - Revista Científica General José María Córdova
+VL  - 19
+IS  - 
+SP  - 181
+EP  - 203
+PY  - 2021
+L2  - http://dx.doi.org/10.21830/19006586.726
+L3  - 1900-6586
 ER  - 
 
 TY  - JOUR
@@ -92,16 +157,16 @@ L3  - 2595-2277
 ER  - 
 
 TY  - JOUR
-AU  - TEJO-MACHADO, NADJILA ; RODRIGUES-MARTINEZ-BASILE, FELIPE ; CEZAR-AMATE, FLAVIO ; RAMÍREZ-LÓPEZ, LEONARDO JUAN
-TI  - Protocolo de informática forense ante ciberincidentes en telemedicina para preservar información como primera respuesta
+AU  - SOUSA-FERREIRA, REGIVALDO ; CAMPANARI-XAVIER, ROGÉRIO APARECIDO ; RODRIGUES-ANCIOTO, ALEX SANDRO
+TI  - La realidad virtual como herramienta para la educaciÃ³n bÃ¡sica y profesional
 JO  - Revista Científica General José María Córdova
 VL  - 19
 IS  - 
-SP  - 181
-EP  - 203
+SP  - 223
+EP  - 241
 PY  - 2021
-L2  - http://dx.doi.org/10.21830/19006586.726
-L3  - 2500-7645
+L2  - http://dx.doi.org/10.21830/19006586.728
+L3  - 1900-6586
 ER  - 
 
 TY  - JOUR
@@ -118,6 +183,19 @@ L3  - 2500-7645
 ER  - 
 
 TY  - JOUR
+AU  - ZAINE, ISABELA ; RODRIGUES, KAMILA RIOS DA HORA ; VIEL, CAIO CÉSAR ; CUNHA, BRUNA CAROLINA RODRIGUES DA ; BATISTONI, SAMILA SATHLER TAVARES ; PIMENTEL, MARIA DA GRAÇA CAMPOS ; CACHIONI, MEIRE
+TI  - UM ESTUDO SOBRE LETRAMENTO DIGITAL PARA IDOSOS COM O APOIO DE UM APLICATIVO MÓVEL PERSONALIZÁVEL
+JO  - ESTUDOS INTERDISCIPLINARES SOBRE O ENVELHECIMENTO
+VL  - 25
+IS  - 
+SP  - 219
+EP  - 246
+PY  - 2021
+L2  - http://dx.doi.org/10.22456/2316-2171.98972
+L3  - 1517-2473
+ER  - 
+
+TY  - JOUR
 AU  - BASILE, F. R. M.; LOPEZ, L. J. R.
 TI  - Estrategia formativa en defensa digital para adolescentes: experiencia en el Instituto Federal de São Paulo.
 JO  - Revista Cientifica General Jose María Córdova
@@ -128,6 +206,19 @@ EP  - 287
 PY  - 2020
 L2  - http://dx.doi.org/10.21830/19006586.579
 L3  - 1900-6586
+ER  - 
+
+TY  - JOUR
+AU  - BISSACO, MARCIA APARECIDA SILVA ; FRERE, ANNIE FRANCE ; BISSACO, LUIZ FERNANDO ; MANRIQUE, ANA LUCIA ; DIRANI, ELY ; RUGERRO, NIUBE ; AMATE, FLAVIO CEZAR
+TI  - A computerized tool to assess reading skills of students with motor impairment
+JO  - MEDICAL ENGINEERING & PHYSICS
+VL  - 77
+IS  - 
+SP  - 31
+EP  - 42
+PY  - 2020
+L2  - http://dx.doi.org/10.1016/j.medengphy.2020.01.001
+L3  - 1350-4533
 ER  - 
 
 TY  - JOUR
@@ -183,7 +274,7 @@ L3  - 2045-2322
 ER  - 
 
 TY  - JOUR
-AU  - BASILE, F. R. M.; LOPEZ, L. J. R. ; AMATE, F. C.
+AU  - BASILE, F. R. M. ; LOPEZ, L. J. R. ; AMATE, F.C.
 TI  - Método para realizar copias de seguridad de imágenes médicas basado en tareas automatizadas
 JO  - NUEVOS DESAFÍOS TECNOLÓGICOS
 VL  - 6
@@ -193,6 +284,84 @@ EP  - 8
 PY  - 2019
 L2  - 
 L3  - 0719-5303
+ER  - 
+
+TY  - JOUR
+AU  - MARTINS, DIOGO S. ; CUNHA, BRUNA C. R. ; YAGUINUMA, CRISTIANE A. ; ZAINE, ISABELA ; PIMENTEL, MARIA DA GRAÇA C.
+TI  - Effects of interactive video annotations on students' browsing behavior and perceived workload
+JO  - Applied Computing Review
+VL  - 19
+IS  - 
+SP  - 44
+EP  - 57
+PY  - 2019
+L2  - http://dx.doi.org/10.1145/3357385.3357389
+L3  - 1559-6915
+ER  - 
+
+TY  - JOUR
+AU  - ORLANDI, BRUNELA DELLA MAGGIORI ; PIMENTEL, MARIA DA GRAÇA C. ; RODRIGUES, KAMILA RIOS DA HORA ; BATISTONI, SAMILA SATHLER TAVARES ; SCALCO, LEONARDO FERNANDES ; CHIARELLI, TÁSSIA MONIQUE ; CUNHA, BRUNA CAROLINA RODRIGUES DA ; CACHIONI, MEIRE ; CLIQUET, LILIAN OURÉM BATISTA VIEIRA ; ZAINE, ISABELA
+TI  - Aprendizagem ao longo de toda a vida e letramento digital de idosos: um modelo multidisciplinar de intervenção com o apoio de um aplicativo
+JO  - RBCEH. REVISTA BRASILEIRA DE CIÊNCIAS DO ENVELHECIMENTO HUMANO
+VL  - 16
+IS  - 
+SP  - 18
+EP  - 24
+PY  - 2019
+L2  - http://dx.doi.org/10.5335/rbceh.v16i1.9751
+L3  - 2317-6695
+ER  - 
+
+TY  - JOUR
+AU  - ZAINE, ISABELA ; FROHLICH, DAVID MARK ; RODRIGUES, KAMILA RIOS DA HORA ; CUNHA, BRUNA CAROLINA RODRIGUES ; ORLANDO, ALEX FERNANDO ; SCALCO, LEONARDO FERNANDES ; PIMENTEL, MARIA DA GRAÇA CAMPOS
+TI  - Promoting Social Connection and Deepening Relations Among Older Adults: Design and Qualitative Evaluation of Media Parcels
+JO  - JOURNAL OF MEDICAL INTERNET RESEARCH
+VL  - 21
+IS  - 
+SP  - e14112
+EP  - 
+PY  - 2019
+L2  - http://dx.doi.org/10.2196/14112
+L3  - 1438-8871
+ER  - 
+
+TY  - JOUR
+AU  - BAGÉ, I. B.; DIAS, F. A. S. ; BUSQUINI, J. A.
+TI  - Um olhar reflexivo para Avaliação Educacional
+JO  - Anais do V Seminário Internacional de Pesquisa e Estudos Qualitativos: Pesquisa Qualitativa na Educação e nas Ciências em Debate
+VL  - 1
+IS  - 
+SP  - 1
+EP  - 11
+PY  - 2018
+L2  - 
+L3  - 9862-3061
+ER  - 
+
+TY  - JOUR
+AU  - BAGÉ, I. B.; MALTEMPI, M. V.
+TI  - Políticas Públicas de Formação de Professores: O contexto do curso de Ingressantes do Estado de São Paulo
+JO  - Anais do IV Congresso de Formação de Professores e XIV Congresso Estadual Paulista sobre Formação de Educadores
+VL  - 1
+IS  - 
+SP  - 1
+EP  - 11
+PY  - 2018
+L2  - 
+L3  - 2359-3822
+ER  - 
+
+TY  - JOUR
+AU  - DIAS, F. A. S. ; BAGÉ, I. B. ; BUSQUINI, J. A.
+TI  - O currículo do Estado de São Paulo e a Formação de Professores de Matemática: A Experiência do Programa M@tmídias
+JO  - Anais do CIET: EnPED: 2018 - Educação e Tecnologias: Docência e Mediação Pedagógica
+VL  - 2
+IS  - 
+SP  - 1
+EP  - 11
+PY  - 2018
+L2  - 
+L3  - 2316-8722
 ER  - 
 
 TY  - JOUR
@@ -222,6 +391,19 @@ L3  - 2195-3880
 ER  - 
 
 TY  - JOUR
+AU  - SALOMÃO, JS ; SANTOS, C. E. ; GIANCOLI, APM ; Amate, F. C.
+TI  - Development of a Serious Game to Assist in Teaching History
+JO  - DEStech Transactions on Computer Science and Engineering
+VL  - 
+IS  - 
+SP  - 474
+EP  - 479
+PY  - 2018
+L2  - http://dx.doi.org/10.12783/dtcse/wcne2017/19904
+L3  - 2475-8841
+ER  - 
+
+TY  - JOUR
 AU  - SILVA, DIEGO PEREIRA DA ; AMATE, FLAVIO CEZAR ; Basile, Felipe Rodrigues Martinêz ; BIANCHI FILHO, CESÁRIO ; RODRIGUES, SILVIA CRISTINA MARTINI ; BISSACO, MARCIA APARECIDA SILVA
 TI  - AACVOX: mobile application for augmentative alternative communication to help people with speech disorder and motor impairment
 JO  - RESEARCH ON BIOMEDICAL ENGINEERING
@@ -245,6 +427,19 @@ EP  - 24
 PY  - 2017
 L2  - 
 L3  - 2175-4411
+ER  - 
+
+TY  - JOUR
+AU  - BAGÉ, I. B.; LIMA, M. A. G.
+TI  - O Fenômeno das Marés: Uma possibilidade para o ensino das função seno e cosseno utilizando as tecnologias digitais
+JO  - anais do XIII Encontro Paulista de Educação Matemática
+VL  - 13
+IS  - 
+SP  - 779
+EP  - 790
+PY  - 2017
+L2  - 
+L3  - 7713-2133
 ER  - 
 
 TY  - JOUR
@@ -287,6 +482,19 @@ L3  - 0160-5682
 ER  - 
 
 TY  - JOUR
+AU  - MACHADO, N. T.; REISER, F. C. ; SANTOS, E. S. P. ; VALTNER, T. T. ; ERVILHA, U. F. ; AOKI, M. S. ; MAGALHAES, F. H. ; MOCHIZUKI, L.
+TI  - Coordenação no tiro com arco: diferenças entre o iniciante e o atleta de nível internacional
+JO  - ARQUIVOS DE CIÊNCIAS DO ESPORTE
+VL  - 5
+IS  - 
+SP  - 13
+EP  - 15
+PY  - 2017
+L2  - 
+L3  - 2317-7136
+ER  - 
+
+TY  - JOUR
 AU  - RODRIGUEZ, ARTURO B ; RAMIREZ, LEONARDO J ; BASILE, FELIPE R. M
 TI  - Tecnologías y Educación: Su Percepción Social En Santiago de Chile
 JO  - FORMACIÓN UNIVERSITARIA
@@ -297,6 +505,32 @@ EP  - 76
 PY  - 2017
 L2  - http://dx.doi.org/10.4067/S0718-50062017000600008
 L3  - 0718-5006
+ER  - 
+
+TY  - JOUR
+AU  - BAGÉ, I. B
+TI  - A Formação Continuada de Professores a Distância: Um olhar sobre o curso de ingressantes oferecido aos docentes de Matemática do Estado de São Paulo
+JO  - X ENEM: Educação Matemática, cultura e diversidade
+VL  - 1
+IS  - 
+SP  - 1
+EP  - 11
+PY  - 2016
+L2  - 
+L3  - 2178-034X
+ER  - 
+
+TY  - JOUR
+AU  - BAGÉ, I. B.; MALTEMPI, M. V.
+TI  - Formação Continuada de Professores: uma proposta de curso para o ensino de Estatística e Probabilidade com o uso de Tecnologias Digitais
+JO  - Anais do III Congresso Nacional de Formação de Professores e do XIII Congresso Estadual Paulista sobre Formação de Educadores por um revolução no campo de formação de professores
+VL  - 1
+IS  - 
+SP  - 3616
+EP  - 3625
+PY  - 2016
+L2  - 
+L3  - 2359-3822
 ER  - 
 
 TY  - JOUR
@@ -339,6 +573,19 @@ L3  - 0718-0764
 ER  - 
 
 TY  - JOUR
+AU  - Drielle Caroline de OLIVEIRA ; Paulo Henrique Aparecido RODRIGUES ; Rafael Palma SOARES ; Amate, Flávio Cezar
+TI  - Software Development for Telehealth at Blood Donation Centers
+JO  - Applied Mechanics and Materials
+VL  - 736
+IS  - 
+SP  - 196
+EP  - 200
+PY  - 2015
+L2  - http://dx.doi.org/10.4028/www.scientific.net/AMM.736.196
+L3  - 1662-7482
+ER  - 
+
+TY  - JOUR
 AU  - TEIXEIRA, F. O.; ARAUJO, G. D. ; BAPTISTA, R. ; Araújo, L.V. ; PISA, I. T.
 TI  - Applying the semantic web to represent an individual's academic and professional background
 JO  - Journal of Information Science
@@ -352,7 +599,7 @@ L3  - 0165-5515
 ER  - 
 
 TY  - JOUR
-AU  - AMATE, F. C. ; CASSIANO JUNIOR, O. ; BASILE, F. R. M.
+AU  - AMATE, FLAVIO CEZAR; CASSIANO, ONIVALDO ; BASILE, FELIPE RODRIGUES MARTINEZ
 TI  - Development of a Treadmill Platform for Dynamic Training with Vibratory Stimuli
 JO  - Applied Mechanics and Materials
 VL  - 590
@@ -360,14 +607,14 @@ IS  -
 SP  - 529
 EP  - 533
 PY  - 2014
-L2  - http://dx.doi.org/10.4028/www.scientific.net/amm.590.529
+L2  - http://dx.doi.org/10.4028/www.scientific.net/AMM.590.529
 L3  - 1662-7482
 ER  - 
 
 TY  - JOUR
-AU  - BASILE, F. R. M.; SILVA, D. P. ; AMATE, F. C.
+AU  - BASILE, F. R. M. ; SILVA, D. P. ; AMATE, F.C.
 TI  - Mobile application to aid people with speech disorders
-JO  - journal of health informatics
+JO  - Journal of Health Informatics
 VL  - 6
 IS  - 
 SP  - 41
@@ -375,6 +622,32 @@ EP  - 45
 PY  - 2014
 L2  - 
 L3  - 2175-4411
+ER  - 
+
+TY  - JOUR
+AU  - RAMIREZ, P. ; KAWAMOTO JR., L. T. ; FRÈRE, Annie France ; AMATE, F.C.
+TI  - Advisory Software for Improving the Prevention of Dentistry Medical Conditions Arising from Chronic Diseases
+JO  - Applied Mechanics and Materials
+VL  - 590
+IS  - 
+SP  - 823
+EP  - 827
+PY  - 2014
+L2  - http://dx.doi.org/10.4028/www.scientific.net/AMM.590.823
+L3  - 1662-7482
+ER  - 
+
+TY  - JOUR
+AU  - VOGEL, D. ; AMATE, F.C.
+TI  - Development of a Game for the Evaluation of Operative Structure in Teenagers With Down Syndrome
+JO  - JOURNAL OF ACCESSIBILITY AND DESIGN FOR ALL
+VL  - 4
+IS  - 
+SP  - 1
+EP  - 12
+PY  - 2014
+L2  - http://dx.doi.org/10.17411/jacces.v4i1.55
+L3  - 2013-7087
 ER  - 
 
 TY  - JOUR
@@ -387,6 +660,19 @@ SP  - 95
 EP  - 99
 PY  - 2012
 L2  - http://www.scopus.com/scopus/inward/citedby.url?partnerID=bb5nvXTn&rel=R6.0.0&doi=null&md5=f8a2d9f8af7e0fb17f9968fbbee28b49
+L3  - 2175-4411
+ER  - 
+
+TY  - JOUR
+AU  - ASSIS, M. G. ; ASSIS, M. A. ; AMATE, F.C.
+TI  - Software for mapping of the risks of Pressure Ulcer, fall and phlebitis
+JO  - Journal of Health Informatics
+VL  - 4
+IS  - 
+SP  - 130
+EP  - 137
+PY  - 2012
+L2  - 
 L3  - 2175-4411
 ER  - 
 
@@ -482,6 +768,19 @@ L3  - 2175-4411
 ER  - 
 
 TY  - JOUR
+AU  - TOLEDO, D. C. ; MACHADO, N. T. ; OLIVEIRA, T. R. ; ALMEIDA, M. A. B.
+TI  - Vida dos lutadores de sumô. Os Yokozunas e os aspectos da cultura japonesa e seu respeito pelas artes marciais e seus praticantes
+JO  - Lecturas Educación Física y Deportes (Buenos Aires)
+VL  - 16
+IS  - 
+SP  - 1
+EP  - 3
+PY  - 2011
+L2  - http://www.scopus.com/scopus/inward/citedby.url?partnerID=bb5nvXTn&rel=R6.0.0&doi=null&md5=f8a2d9f8af7e0fb17f9968fbbee28b49
+L3  - 1514-3465
+ER  - 
+
+TY  - JOUR
 AU  - Viana, Rodrigo Sartorelo Salemi ; FLORENTINO, Helenice de Oliveira ; Lima, Ernesto Augusto Bueno da Fonseca ; Fonseca, Paulo Roberto da ; Homem, Thiago Pedro Donadon
 TI  - Heterogeneity correction in the construction of optimized planning in radiotherapy using linear programming
 JO  - Pesquisa Operacional (Impresso)
@@ -560,6 +859,46 @@ L3  - 1677-499X
 ER  - 
 
 TY  - BOOK
+AU  - MACHADO, N. T
+TI  - Recreação e Lazer
+IS  - 1
+PY  - 2020
+VL  - 
+SP  - 303
+EP  - 
+ER  - 
+
+TY  - BOOK
+AU  - PAULO, R. M. (Org.) ; PAVANELO, E. (Org.) ; BAGÉ, I. B. (Org.)
+TI  - Tecnologias Digitais da Informação e Comunicação na Educação
+IS  - 1
+PY  - 2020
+VL  - 3
+SP  - 115
+EP  - 
+ER  - 
+
+TY  - BOOK
+AU  - BAGÉ, I. B.; SILVA, M. G. M. (Org.) ; ARRUDA, H. P. B. (Org.) ; SILVA, C. C. M. (Org.) ; KUIN, S. (Org.) ; SILVA, N. A. P. (Org.) ; GALLETTA, S. (Org.)
+TI  - Melhor Gestão, Melhor Ensino - Da formação às práticas pedagógicas
+IS  - 1
+PY  - 2014
+VL  - 1
+SP  - 192
+EP  - 
+ER  - 
+
+TY  - BOOK
+AU  - SILVA, M. F. (Org.) ; MACHADO, N. T. (Org.)
+TI  - Estudos interdisciplinares em sociologia do esporte - Cenas Do Cotidiano: Skate Na Praça Roosevelt
+IS  - 1
+PY  - 2014
+VL  - 
+SP  - 132
+EP  - 
+ER  - 
+
+TY  - BOOK
 AU  - Martinêz, F. B. Rodrigues; AMATE, F. C. (Org.)
 TI  - IFMBE Proceedings
 IS  - 33
@@ -567,6 +906,18 @@ PY  - 2013
 VL  - 
 SP  - 
 EP  - 
+ER  - 
+
+TY  - CHAP
+AU  - CUNHA, BRUNA C. R
+T1  - Desenvolvimento Full-Stack com Javascript: uma Visão Geral e Prática. Minicursos do XXIX Simpósio Brasileiro de Sistemas Multimídia e Web. 29ed
+TI  - 
+IS  - 
+PB  - SBC
+PY  - 2023
+VL  - 
+SP  - 89
+EP  - 123
 ER  - 
 
 TY  - CHAP
@@ -584,13 +935,13 @@ ER  -
 TY  - CHAP
 AU  - PILAN, H. C. ; ZADI, I. C. ; MONTANHER, R. C.
 T1  - A aplicação de ferramentas tecnológicas para o ensino emergencial à distância em tempos de pandemia
-TI  - Cleusa Kazue Sakamoto;Sérgio José Andreucci Junior. (Org.). Crise, criatividade e comunicação : estudos em meio à pandemia de Covid-19. 1ed.São Paulo
+TI  - Cleusa Kazue Sakamoto; Sérgio José Andreucci Junior. (Org.). Crise, criatividade e comunicação : estudos em meio à pandemia de Covid-19. 1ed.São Paulo
 IS  - 
-PB  - Gênio Criado
+PB  - Gênio Criador
 PY  - 2020
-VL  - 
+VL  - 1
 SP  - 145
-EP  - 
+EP  - 162
 ER  - 
 
 TY  - CHAP
@@ -630,6 +981,18 @@ EP  - 246
 ER  - 
 
 TY  - CHAP
+AU  - ZAINE, ISABELA ; RODRIGUES, KAMILA R. H. ; CUNHA, BRUNA C.R. ; MAGAGNATTO, YURI ; ORLANDO, A. F. ; VIEL, CAIO C. ; MACHADO NETO, O.J. ; ROCHA, ANDRE C. ; PIMENTEL, MARIA DA GRAÇA
+T1  - ESPIM: um sistema para coleta de dados de usuários e intervenção programada a distância usando o método ESM e dispositivos móveis
+TI  - Fábio de Jesus Lima Gomes; Ricardo de Andrade Lira Rabelo; Carlos de Salles Soares-Neto; Roberto Willrich; Fernando Antônio Mota Trinta; Erick Baptista Passos. (Org.). Anais do XXII Simpósio Brasileiro de Sistemas Multimídia e Web. 1ed.Porto Alegre
+IS  - 
+PB  - SBC
+PY  - 2016
+VL  - 3
+SP  - 119
+EP  - 154
+ER  - 
+
+TY  - CHAP
 AU  - BASILE, F. R. M.; THOME FILHO, M. ; AMATE, F. C. ; SILVA, R. R. ; PAULA, S. B. ; GOROSO, D. G.
 T1  - Proteção à privacidade e acesso às informações em saúde: tecnologias, direitos e ética
 TI  - Tania Margarete Mezzomo Keinert, Flávia Mori Sarti, Carlos Tato Cortizo, Silvia Bastos de Paula.. (Org.). Segurança de transferência de dados em Telessaúde e Telemedicina. 1ªed.São Paulo
@@ -665,6 +1028,78 @@ SP  - 53
 EP  - 73
 ER  - 
 
+TY  - CHAP
+AU  - MACHADO NETO, O. J. ; CUNHA, BRUNA C.R. ; FORTES, RENATA P. M. ; PIMENTEL, MARIA DA GRAÇA CAMPOS
+T1  - Tecnologia Assistiva: pesquisas, oportunidades e exemplos de recursos de tecnologia assistiva multimidia
+TI  - Carlos de Salles Soares Neto; Carlos Eduardo Batista. (Org.). Livro de minicursos do XX Simpósio Brasileiro de Sistemas Multimídia e Web. 1ed
+IS  - 
+PB  - 
+PY  - 2014
+VL  - 
+SP  - 1
+EP  - 18
+ER  - 
+
+TY  - CHAP
+AU  - Martinêz, F. B. Rodrigues ; Amate, F. C.
+T1  - Open Source Application for Secure Transmission of Medical Images. IFMBE Proceedings. 1ed
+TI  - 
+IS  - 
+PB  - Springer Berlin Heidelberg
+PY  - 2013
+VL  - 33
+SP  - 280
+EP  - 283
+ER  - 
+
+TY  - CHAP
+AU  - Xavier, Rogério Aparecido Campanari; de Almeida Neris, Vânia Paula
+T1  - Measuring Users¿ Emotions with a Component-Based Approach. Lecture Notes in Business Information Processing. VIed
+TI  - 
+IS  - 
+PB  - Springer Berlin Heidelberg
+PY  - 2013
+VL  - 141
+SP  - 393
+EP  - 409
+ER  - 
+
+TY  - CHAP
+AU  - Basile, Felipe Rodrigues Martinêz ; Amate, Flávio Cezar
+T1  - Secure Transmission of Medical Images by SSH Tunneling. Communications in Computer and Information Science. VIIed
+TI  - 
+IS  - 
+PB  - Springer Berlin Heidelberg
+PY  - 2011
+VL  - VII
+SP  - 486
+EP  - 490
+ER  - 
+
+TY  - CHAP
+AU  - Almeida, Jaqueline Lima Silva Garcez ; Amate, F. C. ; Frère, A. F.
+T1  - Método para morfometria de cabeça para projetar periféricos destinados à pessoas com limitações de movimentos. IFMBE Proceedings. 1ed
+TI  - 
+IS  - 
+PB  - Springer Berlin Heidelberg
+PY  - 2003
+VL  - 
+SP  - 762
+EP  - 765
+ER  - 
+
+TY  - CHAP
+AU  - Carvalho, Margarida Maria Xavier Vieira ; Silva, A. P. ; Amate, F. C. ; Costa, A. F. ; Frère, A. F.
+T1  - Método Computadorizado Para Treinar a Avaliação da Espasticidade em Cursos de Fisioterapia. IFMBE Proceedings. Ied
+TI  - 
+IS  - 
+PB  - Springer Berlin Heidelberg
+PY  - 2003
+VL  - 
+SP  - 1042
+EP  - 1045
+ER  - 
+
 TY  - MGZN
 AU  - RODRIGUES, A. L. ; CASAGRANDE, H. F. ; GOMES, J. P. M. ; PASSOS, P. L. A. ; FERRUZZI, A. J. ; FERREIRA, R. S.
 T1  - DETECÇÃO DE ATAQUES DDOS POR MEIO DE APRENDIZADO DE MÁQUINA
@@ -688,6 +1123,17 @@ M1  - 01 ago. 2022
 ER  - 
 
 TY  - MGZN
+AU  - DIAS, F. A. S. ; BUSQUINI, J. A. ; BAGÉ, I. B.
+T1  - Formação em EaD: Possíveis contribuições para a Prática de Docentes em Matemática
+TI  - Revista de Ensino, Educação e Ciências Humanas, Paraná
+PY  - 2018
+VL  - 
+SP  - 386
+EP  - 391
+M1  - 01 nov. 2018
+ER  - 
+
+TY  - MGZN
 AU  - TEIXEIRA, F. O
 T1  - Diebold Procomp - Mais Informações menos custo
 TI  - Revista Microsoft Business nº 31
@@ -696,6 +1142,28 @@ VL  -
 SP  - 
 EP  - 
 M1  - 
+ER  - 
+
+TY  - CONF
+AU  - R. Cunha, Bruna C.; S. BRANDINE, GABRIEL ; RIBEIRO, FRANCINE M.
+T1  - Let?s Play with Facts: Lessons Learned in Developing a Serious Game to Raise Awareness about Digital Disinformation
+TI  - Workshop sobre Interação e Pesquisa de Usuários no Desenvolvimento de Jogos
+VL  - 
+SP  - 43
+EP  - 
+PY  - 2024
+L2  - http://dx.doi.org/10.5753/wiplay.2024.245140
+ER  - 
+
+TY  - CONF
+AU  - ALMEIDA, CAMILA DOS SANTOS ; MISSASSI, MILENA ; SILVA, SORAIA MARIA DA ; BRITES, BIANCA LOPES ; BAGÉ, IDALISE BERNARDO
+T1  - ESTUDO DA ÁREA DE ENGENHARIA DA SUSTENTABILIDADE APLICADA NAS EMPRESAS
+TI  - ENEGEP 2021 Encontro Nacional de Engenharia de Produção
+VL  - 
+SP  - 
+EP  - 
+PY  - 2021
+L2  - http://dx.doi.org/10.14488/ENEGEP2021_TN_STO_362_1866_42809
 ER  - 
 
 TY  - CONF
@@ -710,7 +1178,7 @@ L2  -
 ER  - 
 
 TY  - CONF
-AU  - MONTANHER, RENATO CRISTIANO; ZADI, IGOR CALEBE ; MONTEIRO, ANA MARIA
+AU  - MONTANHER, RENATO CRISTIANO ; ZADI, IGOR CALEBE ; MONTEIRO, ANA MARIA
 T1  - Complex World: um jogo para auxiliar o aprendizado de inglês como segunda língua utilizando a abordagem pedagógica do Pensamento Complexo
 TI  - Simpósio Brasileiro de Informática na Educação
 VL  - 
@@ -718,6 +1186,17 @@ SP  - 417
 EP  - 
 PY  - 2021
 L2  - http://dx.doi.org/10.5753/sbie.2021.218506
+ER  - 
+
+TY  - CONF
+AU  - NADJILA TEJO MACHADO ; LEONARDO JUAN RAMIREZ LOPEZ2 ; Amate, F. C. ; BASILE, F. R. M.
+T1  - INVESTIGAÇÃO DE SPLICING E CLONING EM IMAGENS NOS CENÁRIOS DA TELEMEDICINA POR MEIO DA FORENSE COMPUTACIONAL
+TI  - 12º CONGRESSO DE INOVAÇÃO
+VL  - 
+SP  - 
+EP  - 
+PY  - 2021
+L2  - http://dx.doi.org/10.1007/978-3-540-74471-9_177
 ER  - 
 
 TY  - CONF
@@ -740,6 +1219,28 @@ SP  - 55
 EP  - 
 PY  - 2020
 L2  - http://dx.doi.org/10.5753/wcga.2020.12444
+ER  - 
+
+TY  - CONF
+AU  - Guimarães, Marcelo de Paiva ; FREITAS, L. F. S. ; ANCIOTO, A. S. R. ; DIAS, D. R. C. ; MARTINS, V. F.
+T1  - Motivational evaluation of a virtual reality simulator to teach disk-scheduling algorithms for solid-state drives (SSDs)
+TI  - International Conference on Computational Science and its Applications (ICCSA)
+VL  - 
+SP  - 1
+EP  - 11
+PY  - 2020
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - Guimarães, Marcelo de Paiva ; FREITAS, L. F. S. ; ANCIOTO, A. S. R. ; DIAS, D. R. C. ; MARTINS, V. F.
+T1  - A virtual reality simulator to assist in memory management lectures
+TI  - International Conference on Computational Science and its Applications (ICCSA)
+VL  - 
+SP  - 1
+EP  - 16
+PY  - 2020
+L2  - 
 ER  - 
 
 TY  - CONF
@@ -776,6 +1277,28 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - CUNHA, BRUNA C. R.; RODRIGUES, KAMILA R. H. ; PIMENTEL, MARIA DA GRAÇA C.
+T1  - Synthesizing guidelines for facilitating elderly-smartphone interaction
+TI  - the 25th Brazillian Symposium
+VL  - 
+SP  - 37
+EP  - 
+PY  - 2019
+L2  - http://dx.doi.org/10.1145/3323503.3349563
+ER  - 
+
+TY  - CONF
+AU  - CUNHA, BRUNA C. R.; RODRIGUES, KAMILA R. H. ; ZAINE, ISABELA ; SCALCO, LEONARDO F. ; VIEL, CAIO C. ; PIMENTEL, MARIA DA GRAÇA C.
+T1  - Web-based authoring of multimedia intervention programs for mobile devices
+TI  - SAC '19: The 34th ACM/SIGAPP Symposium on Applied Computing
+VL  - 
+SP  - 484
+EP  - 
+PY  - 2019
+L2  - http://dx.doi.org/10.1145/3297280.3297325
+ER  - 
+
+TY  - CONF
 AU  - MACHADO, N. T. ; LOPEZ, L. J. R. ; BASILE, F. R. M.
 T1  - Forense Computacional como estratégia para investigação estratégia de investigação em crimes cibernéticos
 TI  - 10º Congresso de Inovação
@@ -795,6 +1318,72 @@ SP  - 25
 EP  - 
 PY  - 2019
 L2  - http://dx.doi.org/10.1109/lars-sbr-wre48964.2019.00013
+ER  - 
+
+TY  - CONF
+AU  - VIEL, CAIO C. ; RODRIGUES, KAMILA R. H. ; CUNHA, BRUNA C. R. ; PIMENTEL, MARIA G. C.
+T1  - Elderly vloggers
+TI  - the 25th Brazillian Symposium
+VL  - 
+SP  - 185
+EP  - 
+PY  - 2019
+L2  - http://dx.doi.org/10.1145/3323503.3360303
+ER  - 
+
+TY  - CONF
+AU  - ANCIOTO, A. S. R.; FREITAS, L. F. S. ; Guimarães, Marcelo de Paiva ; Zadi, Igor Calebe ; Bonacin, Rodrigo
+T1  - Análise de aspectos motivacionais de um simulador para o ensino do algoritmo de escalonamento de disco
+TI  - XIV Workshop de Computação da UNIFACCAMP (WCF)
+VL  - 
+SP  - 
+EP  - 
+PY  - 2018
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - ANCIOTO, A. S. R.; MASHI, L. F. C. ; Guimarães, Marcelo de Paiva
+T1  - Simulator for Teaching Magnetic Disk Scheduling Algorithms
+TI  - Symposium on Virtual and Augmented Reality (SVR)
+VL  - 
+SP  - 
+EP  - 
+PY  - 2018
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - RODRIGUES, KAMILA R. H. ; CUNHA, BRUNA C. R. ; ZAINE, ISABELA ; VIEL, CAIO C. ; SCALCO, LEONARDO F. ; PIMENTEL, MARIA G. C.
+T1  - ESPIM System
+TI  - the 24th Brazilian Symposium
+VL  - 
+SP  - 125
+EP  - 
+PY  - 2018
+L2  - http://dx.doi.org/10.1145/3243082.3243120
+ER  - 
+
+TY  - CONF
+AU  - RODRIGUES, KAMILA R.H. ; PIMENTEL, MARIA DA GRAÇA C. ; VIEL, CAIO C. ; ZAINE, ISABELA ; CUNHA, BRUNA C.R. ; SCALCO, LEONARDO F.
+T1  - Authoring of interventions with on-demand generation of screen for mobile devices
+TI  - XXIV Simpósio Brasileiro de Sistemas Multimídia e Web
+VL  - 2
+SP  - 145
+EP  - 
+PY  - 2018
+L2  - http://dx.doi.org/10.5753/webmedia.2018.4588
+ER  - 
+
+TY  - CONF
+AU  - BAGÉ, I. B.; LIMA, M. A. G.
+T1  - O Fenômeno das Marés: Uma possibilidade para o Ensino das Funções Seno e Cosseno Utilizando
+TI  - XIII Encontro Paulista de Educação Matemática
+VL  - 
+SP  - 779
+EP  - 790
+PY  - 2017
+L2  - 
 ER  - 
 
 TY  - CONF
@@ -820,6 +1409,50 @@ L2  - http://dx.doi.org/10.1109/bracis.2017.63
 ER  - 
 
 TY  - CONF
+AU  - BAGÉ, I. B
+T1  - A formação continuada de professores a distância: Um olhar sobre o curso de ingressantes oferecido aos docentes de Matemática do Estado de São Paulo
+TI  - XII Encontro Nacional de Educação Matemática
+VL  - 
+SP  - 1
+EP  - 11
+PY  - 2016
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - BAGÉ, I. B.; MALTEMPI, M. V.
+T1  - Formação Continuada de Professores: Uma proposta de curso para o ensino de Estatística e Probabilidade com o uso das Tecnologias Digitais
+TI  - III Congresso Nacional de Formação de Professores e do XIII Congresso Estadual Paulista sobre Formação de Educadores: por uma revolução no campo da formação de professores
+VL  - 1
+SP  - 3616
+EP  - 3625
+PY  - 2016
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - CUNHA, BRUNA C.R.; USCAMAYTA, ANDREY OMAR M. ; PIMENTEL, MARIA DA GRAÇA C.
+T1  - Opportunistic Recording of Live Experiences Using Multiple Mobile Devices
+TI  - the 22nd Brazilian Symposium
+VL  - 
+SP  - 99
+EP  - 
+PY  - 2016
+L2  - http://dx.doi.org/10.1145/2976796.2988164
+ER  - 
+
+TY  - CONF
+AU  - MACHADO NETO, O.J. ; PERACINI, A.P.P. ; DA CUNHA, B.C.R. ; ROCHA, A.L.C. ; ELUI, V.M.C. ; CASTRO, P.C. ; DA GRACA, M. ; DA GRACA C PIMENTEL, M.
+T1  - An architecture for creating mobile assistive products: a case study on posture monitoring of people with motor disability
+TI  - 2nd IET International Conference on Technologies for Active and Assisted Living (TechAAL 2016)
+VL  - 
+SP  - 6 (6 .)
+EP  - 
+PY  - 2016
+L2  - http://dx.doi.org/10.1049/ic.2016.0055
+ER  - 
+
+TY  - CONF
 AU  - PERICO, DANILO H. ; HOMEM, THIAGO P.D. ; ALMEIDA, AISLAN C. ; SILVA, ISAAC J. ; VILAO, CLAUDIO O. ; FERREIRA, VINICIUS N. ; BIANCHI, REINALDO A.C.
 T1  - A Robot Simulator Based on the Cross Architecture for the Development of Cognitive Robotics
 TI  - 2016 XIII Latin American Robotics Symposium and IV Brazilian Robotics Symposium (LARS/SBR)
@@ -828,6 +1461,61 @@ SP  - 317
 EP  - 
 PY  - 2016
 L2  - http://dx.doi.org/10.1109/lars-sbr.2016.60
+ER  - 
+
+TY  - CONF
+AU  - PIMENTEL, MARIA G. ; RODRIGUES, KAMILA R. H. ; ZAINE, ISABELA ; DA CUNHA, BRUNA C. R. ; ANTONELLI, HUMBERTO L. ; RODRIGUES, SANDRA S. ; NETO, OLIBÁRIO J. MACHADO ; ROCHA, ANDRE C. ; MELO, ERIC ; COSTA, ALLAN R. ; USCAMAYTA, OMAR M.
+T1  - Enhancing older adults connectivity by introducing mobile devices communication tools
+TI  - the 7th International Conference
+VL  - 
+SP  - 353
+EP  - 
+PY  - 2016
+L2  - http://dx.doi.org/10.1145/3019943.3019994
+ER  - 
+
+TY  - CONF
+AU  - AMATE, F.C
+T1  - Software for Data Management of Physical Exercises in GYM
+TI  - National Conference on Information Technology and Computer Science
+VL  - 
+SP  - 
+EP  - 
+PY  - 2015
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - BAGÉ, I. B
+T1  - Formação Continuada e Prática Profissional: Um olhar sobre o curso de formação de ingressantes do Estado de São Paulo
+TI  - XIX EBRAPEM - Encontro Brasileiro de Estudantes de Pós Graduação em Educação Matemática
+VL  - 
+SP  - 
+EP  - 
+PY  - 2015
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - CUNHA, BRUNA C.R.; CORREIA, RODOLFO DIAS ; PIMENTEL, MARIA DA GRAÇA CAMPOS
+T1  - Mobile Video Annotations
+TI  - the 21st Brazilian Symposium
+VL  - 
+SP  - 245
+EP  - 
+PY  - 2015
+L2  - http://dx.doi.org/10.1145/2820426.2820449
+ER  - 
+
+TY  - CONF
+AU  - DOMINGUES, MARCOS AURÉLIO ; SANTOS, THAIS EMANUELE ; HANADA, RAÍZA ; CUNHA, BRUNA C.R. ; REZENDE, SOLANGE OLIVEIRA ; PIMENTEL, MARIA DA GRAÇA CAMPOS
+T1  - A Platform for the Recommendation of Points of Interest in Brazilian Cities
+TI  - the 21st Brazilian Symposium
+VL  - 
+SP  - 229
+EP  - 
+PY  - 2015
+L2  - http://dx.doi.org/10.1145/2820426.2820448
 ER  - 
 
 TY  - CONF
@@ -875,12 +1563,78 @@ L2  - http://dx.doi.org/10.1109/sbr.lars.robocontrol.2014.51
 ER  - 
 
 TY  - CONF
-AU  - BASILE, F. R. M.; AMATE, F. C.
-T1  - Application to management of medical images backup using mobile devices by ssh tunneling
-TI  - XIII Congresso Brasileiro em Informática na Saúde
+AU  - XAVIER, R. A. C.; NERIS, V. P. A.
+T1  - Measuring the emotional experience of users through a hybrid semantic approach
+TI  - XIII Simpósio Brasileiro Sobre Fatores Humanos em Sistemas Computacionais
 VL  - 
-SP  - 
-EP  - 
+SP  - 226
+EP  - 235
+PY  - 2014
+L2  - http://dx.doi.org/10.1007/978-3-642-40654-6_24
+ER  - 
+
+TY  - CONF
+AU  - BAGÉ, I. B.; DIAS, F. A. S.
+T1  - A contribuição de objetos de aprendizagem na formação de professores de Matemática da Educação Básica Brasileira
+TI  - VII Congresso Iberoamericano de Docência Universitária
+VL  - 1
+SP  - 1903
+EP  - 1918
+PY  - 2012
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - BASILE, F. R. M.; AMATE, F. C.
+T1  - Application to Management of Medical Images Backup Using Mobile Devices by SSH Tunneling
+TI  - XIII Congresso Brasileiro de Informática na Saúde
+VL  - 1
+SP  - 1
+EP  - 6
+PY  - 2012
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - Campanari Xavier R.; Almeida Neris V.
+T1  - A Hybrid Evaluation Approach for the Emotional State of Information Systems Users
+TI  - 14th International Conference on Enterprise Information Systems
+VL  - 3
+SP  - 45
+EP  - 53
+PY  - 2012
+L2  - http://dx.doi.org/10.5220/0004003600450053
+ER  - 
+
+TY  - CONF
+AU  - FAKELMANN, L. ; AMATE, F.C.
+T1  - Jogo Computacional para auxiliar no Ensino de Matemática
+TI  - 3º Congresso Científico da Semana Nacional de Ciência e Tecnologia - CONCISTEC
+VL  - 
+SP  - 1
+EP  - 7
+PY  - 2012
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - IKEGAYA, E. F. K. ; AMATE, F.C.
+T1  - Desenvolvimento de um Eletrogoniômetro Baseado em um Acelerômetro Triaxial
+TI  - Congresso Brasileiro de Engenharia Biomédica
+VL  - 
+SP  - 1456
+EP  - 1460
+PY  - 2012
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - Rogério Aparecido Campanari Xavier; Franco Eusébio Garcia ; Vania Paula de Almeida Neris
+T1  - Decisões de design de interfaces ruins e o impacto delas na interação: um estudo preliminar considerando o estado emocional de idosos
+TI  - Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais
+VL  - 
+SP  - 127
+EP  - 136
 PY  - 2012
 L2  - 
 ER  - 
@@ -903,6 +1657,17 @@ TI  - WIM2012 - XII Workshop de Informática Médica / XXXII Congresso da Socied
 VL  - 
 SP  - 
 EP  - 
+PY  - 2012
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - VIEIRA, A. S. ; AMATE, F.C.
+T1  - Análise de Características Heurísticas em Interface de Jogos Computadorizados
+TI  - 3º Congresso Científico da Semana Nacional de Ciência e Tecnologia - CONCISTEC
+VL  - 
+SP  - 1
+EP  - 10
 PY  - 2012
 L2  - 
 ER  - 
@@ -934,8 +1699,19 @@ AU  - ARPINI, F.M. ; BASILE, F. R. M. ; AMATE, F. C.
 T1  - Dispositivo para leitura do posicionamento do usuário em postos de trabalho específicos para postura sentada
 TI  - XXII Congresso Brasileiro de Engenharia Biomédica
 VL  - 
-SP  - 746
-EP  - 749
+SP  - 743
+EP  - 746
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - CARVALHO, D. C. ; AMATE, F.C.
+T1  - Ambiente virtual para treinamento em automated teller machine, como auxílio na qualidade de vida de idosos
+TI  - XXII Congresso Brasileiro de Engenharia Biomédica
+VL  - 
+SP  - 891
+EP  - 894
 PY  - 2010
 L2  - 
 ER  - 
@@ -1007,6 +1783,28 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - Romana de Souza Franco ; AMATE, F.C. ; Annie France Frere
+T1  - Eficiência da acupuntura no desempenho esportivo
+TI  - XXII Congresso Brasileiro de Engenharia Biomédica
+VL  - 
+SP  - 1585
+EP  - 1588
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - SILVA, Alessandro Pereira da ; SCARDOVELLI, T.A. ; AMATE, F.C. ; FRERE, A.F.
+T1  - Modelagem e testes de dispositivos destinados à reabilitação física
+TI  - XXII Congresso Brasileiro de Engenharia Biomédica
+VL  - 
+SP  - 1171
+EP  - 1174
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - Sousa, F.S. ; HUMMEL, A. D. ; MACIEL, R.F. ; COHRS, F. M. ; FALCÃO, A. E. J. ; TEIXEIRA, F. O. ; BAPTISTA, R. ; COSTA, T. M. ; ALVES, D. ; P., Ivan Torres
 T1  - APLICAÇÃO DE TÉCNICAS INTELIGENTES EM BASES DE DADOS DE TRANSPLANTES: UMA REVISÃO DE ARTIGOS PUBLICADOS EM 2009 E 2010
 TI  - VI Congresso Brasileiro de Transplantes de Fígado e Pâncreas
@@ -1046,6 +1844,17 @@ TI  - XII Congresso Brasileiro de Informática em Saúde
 VL  - 
 SP  - 
 EP  - 
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - XAVIER, R. A. C.; PEREIRA, F. D.
+T1  - Sistema de Rastreamento de Vulnerabilidades em Aplicações WEB: Ferramenta OpenTracker
+TI  - Congresso de Inovação com Tecnologias Open Source (CITOS 2010)
+VL  - 01
+SP  - 59
+EP  - 67
 PY  - 2010
 L2  - 
 ER  - 
@@ -1095,6 +1904,17 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - ALMEIDA, J.L. da S.G de. ; Annie France Frere ; AMATE, F.C. ; BISSACO, M.A.S
+T1  - Processamento de imagens para projeto e implementação de periférico universal
+TI  - 21 Congresso Brasileiro de Engenharia Bimédica
+VL  - 1
+SP  - 
+EP  - 
+PY  - 2008
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - BALBO, Antonio Roberto ; HOMEM, Thiago Pedro Donadon ; FLORENTINO, Helenice de Oliveira ; VIANNA, Andréa Carla Gonçalves
 T1  - Procedimento híbrido envolvendo métodos de pontos interiores e Branch-Bound em problemas multi-objetivo de aproveitamento da biomasssa residual da cana-de-açucar
 TI  - XL SBPO - Simpósio Brasileiro de Pesquisa Operacional
@@ -1135,6 +1955,226 @@ VL  -
 SP  - 
 EP  - 
 PY  - 2008
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - AMATE, F.C.; FRÈRE, Annie France
+T1  - Cidade interativa: um ambiente virtual para auxiliar a fase inicial da escrita de crianças especiais
+TI  - IV Congresso Iberdiscap: Tecnologias de Apoio a Portadores de Deficiência
+VL  - 1
+SP  - 
+EP  - 
+PY  - 2006
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - BOCHI, Silvia Regina Matos da Silva ; AMATE, F.C. ; FRÈRE, Annie France
+T1  - Desenvolvimento de jogos musicais computadorizados para treino de movimentos de crianças com dificuldades motoras
+TI  - IV Congresso Iberdiscap: Tecnologias de Apoio a Portadores de Deficiência
+VL  - 
+SP  - 
+EP  - 
+PY  - 2006
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - CARVALHO, M.M.X.V. ; AMATE, F.C. ; Annie France Frere
+T1  - Desenvolvimento de dispositivo para quantificar espasticidade de membros superiores
+TI  - XX Congresso Brasileiro de Engenharia Biomédica
+VL  - 1
+SP  - 
+EP  - 
+PY  - 2006
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - ROCHA, P.M.M. ; OLIVEIRA, H.J.Q. ; AMATE, F.C.
+T1  - Medição do comportamento postural ocupacional sentado por análise de imagem
+TI  - XX Congresso Brasileiro de Engenharia Biomédica
+VL  - 1
+SP  - 1212
+EP  - 1215
+PY  - 2006
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - AMATE, F.C.; FRÈRE, Annie France
+T1  - Jogo de computador para auxiliar na capacidade de formação de palavras para crianças especiais
+TI  - V Congreso Latinoamericano de Informática Educativa Especial
+VL  - 1
+SP  - 
+EP  - 
+PY  - 2005
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - AMATE, F.C.; OLIVEIRA, H.A.D. ; FRÈRE, Annie France
+T1  - Auxílio a capacidade de formação de palavras de crianças especiais usando internet
+TI  - Conferência Ibero-Americana WWW/Internet 2004
+VL  - 
+SP  - 
+EP  - 
+PY  - 2004
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - AMATE, F.C.; OLIVEIRA, H.A.D. ; FRÈRE, Annie France
+T1  - Jogo de computador para crianças especiais com dificuldades na formação de palavras
+TI  - IX Congresso Brasileiro de Informática em Saúde
+VL  - 
+SP  - 
+EP  - 
+PY  - 2004
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - AMATE, F.C.; SCARDOVELLI, T.A. ; SILVA, M.L. ; OLIVEIRA, H.A.D. ; FRÈRE, Annie France
+T1  - Jogo de computador para auxiliar na capacidade de formação de palavras para crianças especiais
+TI  - III Congresso Latino-Americano de Engenharia Biomédica
+VL  - 5
+SP  - 553
+EP  - 556
+PY  - 2004
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - SCARDOVELLI, T.A. ; AMATE, F.C. ; KUBATAMAIA, C. ; OLIVEIRA, H.A.D. ; FRÈRE, Annie France
+T1  - Jogo computadorizado para auxiliar no letramento de crianças portadoras de deficiências motoras
+TI  - VII Congresso Iberoamericano de Informática Educativa
+VL  - 
+SP  - 
+EP  - 
+PY  - 2004
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - SOUZA, S.R.S. ; AMATE, F.C. ; FRÈRE, Annie France
+T1  - Dispositivo de avaliação do desempenho da habilidade gráfica de crianças em fase de alfabetização
+TI  - III Congresso Latino-Americano de Engenharia Biomédica
+VL  - 5
+SP  - 685
+EP  - 688
+PY  - 2004
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - AMATE, F.C.; OLIVEIRA, H.A.D. ; Annie France Frere
+T1  - Jogos computadorizados para auxiliar a alfabetização de crianças especiais
+TI  - II SEMINÁRIO e I OFICINAS ATIID AESIBILIDADE
+VL  - 
+SP  - 
+EP  - 
+PY  - 2003
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - AMATE, F.C.; OLIVEIRA, H.A.D. ; BARREIRO, M.S. ; FRERE, A.F.
+T1  - Computerized games sequency for written language acquisition in special education
+TI  - 25th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+VL  - 
+SP  - 3536
+EP  - 3539
+PY  - 2003
+L2  - http://dx.doi.org/10.1109/IEMBS.2003.1280915
+ER  - 
+
+TY  - CONF
+AU  - AMATE, F.C.; OLIVEIRA, H.A.D. ; FRÈRE, Annie France
+T1  - Jogos computadorizados para aquisição da linguagem escrita na educação especial
+TI  - I Conferencia Ibero-Americana WWW/Internet
+VL  - 
+SP  - 
+EP  - 
+PY  - 2003
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - AMATE, F.C.; OLIVEIRA, H.A.D. ; SCARDOVELLI, T.A. ; FRÈRE, Annie France
+T1  - Jogos computadorizados para aquisição da linguagem escrita na educação especial
+TI  - III Congresso Brasileiro de Computação
+VL  - 
+SP  - 
+EP  - 
+PY  - 2003
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - BARREIRO, M.S. ; FRERE, A.F. ; THEODORIO, N.E.M. ; AMATE, F.C.
+T1  - Goniometer based to computer
+TI  - 25th Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+VL  - IV
+SP  - 3290
+EP  - 3293
+PY  - 2003
+L2  - http://dx.doi.org/10.1109/IEMBS.2003.1280847
+ER  - 
+
+TY  - CONF
+AU  - BOCHI, Silvia Regina Matos da Silva ; AMATE, F.C. ; NETO, V. P. ; FRÈRE, Annie France
+T1  - Jogos computadorizados no auxílio da reabilitação de atividades motoras
+TI  - III Congresso Brasileiro de Computação
+VL  - 
+SP  - 
+EP  - 
+PY  - 2003
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - AMATE, F.C.; OLIVEIRA, H.A.D. ; BISSACO, L. F. ; FRÈRE, Annie France
+T1  - Jogos computadorizados para incentivar a alfabetização de crianças especiais
+TI  - XVIII Congresso Brasileiro de Engenharia Biomédica
+VL  - 
+SP  - 
+EP  - 
+PY  - 2002
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - AMATE, F.C.; SOUZA, S.R.S. ; KOMATSU, E. M. ; FRÈRE, Annie France
+T1  - Análise dos movimentos finos de crianças com ataxia
+TI  - XVIII Congresso Brasileiro de Engenharia Biomédica
+VL  - 
+SP  - 
+EP  - 
+PY  - 2002
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - BISSACO, L. F. ; AMATE, F.C. ; OLIVEIRA, H.A.D. ; FRÈRE, Annie France
+T1  - Caça-níquel computadorizado como auxilio à alfabetização de crianças especiais
+TI  - III Congresso Ibero Americano de Informática na Educação Especial
+VL  - 
+SP  - 
+EP  - 
+PY  - 2002
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - BOCHI, Silvia Regina Matos da Silva ; AMATE, F.C. ; NETO, V. P. ; FRÈRE, Annie France
+T1  - Desenvolvimento de jogos musicais computadorizados para auxiliar a alfabetização de crianças com ataxia
+TI  - III Congresso Ibero-americano de Informática na Educação Especial
+VL  - 1
+SP  - 
+EP  - 
+PY  - 2002
 L2  - 
 ER  - 
 
@@ -1205,6 +2245,17 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - CUNHA, B. C. R.; BRANDINE, G. S.
+T1  - Jogos sérios na educação: desenvolvimento de um visual novel para conscientização sobre fake news
+TI  - CONGRESSO DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO IFSP, 2022, São Paulo. Anais do 13º CONGRESSO DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO IFSP
+VL  - 
+SP  - 
+EP  - 
+PY  - 2022
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - Marques, V. G. ; Ferraz, R.G ; Souza, A. B. S. ; Ferruzzi, A. J. ; FERREIRA, R. S.
 T1  - DESENVOLVIMENTO DE UMA APLICAÇÃO WEB PARA DIVULGAÇÃO DE CONTEÚDOS E FERRAMENTAS ACERCA DA CIBERSEGURANÇA
 TI  - CONFERÊNCIAS DO IFSP, 13º CONGRESSO DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO IFSP, 2022, São Paulo. 13º CONGRESSO DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO IFSP
@@ -1227,6 +2278,17 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - ALECRIM, T. B. ; SOUZA, L. S. ; MACHADO, N. T. ; MONTANHER, R. C.
+T1  - Desenvolvimento de aplicativo móvel para gestão de dados na atenção primária em Unidade Básica de Saúde
+TI  - Congresso de Inovação, Ciência e Tecnologia do IFSP, 2021, Cubatão. Anais do Congresso de Inovação, Ciência e Tecnologia do IFSP,
+VL  - 
+SP  - 
+EP  - 
+PY  - 2021
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - BASILE, F. R. M.; Dos Santos, G.M ; MONTANHER, R. C.
 T1  - Desenvolvimento de arquitetura de plataforma virtual para apoio ao exame de Monitorização Ambulatorial de Pressão Arterial
 TI  - 12º CONICT Congresso de Inovação Ciência e Tecnologia, 2021, Cubatão. 12º CONICT - Congresso de Inovação, Ciência e Tecnologia EDIÇÃO VIRTUAL
@@ -1241,6 +2303,17 @@ TY  - CONF
 AU  - LEITE, I. G. ; VIEIRA, K. S. ; SILVA, S. C. ; SANTOS, L. C. M. ; TEIXEIRA, F. O.
 T1  - A Modelagem Computacional Como Recurso Educacional Para o Estudo do Câncer
 TI  - 12º CONGRESSO DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO IFSP, 2021, São Paulo. 12º CONGRESSO DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO IFSP
+VL  - 
+SP  - 
+EP  - 
+PY  - 2021
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, N. T.; LOPEZ, L. J. R. ; AMATE, F. C. ; BASILE, F. R. M.
+T1  - Investigação de splicing e cloning em imagens nos cenários da telemedicina por meio da forense computacional
+TI  - Congresso de Inovação, Ciência e Tecnologia do IFSP, 2021, Cubatão. Anais do Congresso de Inovação, Ciência e Tecnologia do IFSP
 VL  - 
 SP  - 
 EP  - 
@@ -1315,6 +2388,72 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - M. USCAMAYTA, A. OMAR ; CUNHA, BRUNA C.R. ; MARTINS, DIOGO S. ; PIMENTEL, MARIA G.
+T1  - Opportunistic Collaborative Mobile-Based Multimedia Authoring Based on the Capture of Live Experiences
+TI  - the 2017 ACM Symposium, 2017, Valletta. Proceedings of the 2017 ACM Symposium on Document Engineering - DocEng '17
+VL  - 
+SP  - 219
+EP  - 
+PY  - 2017
+L2  - http://dx.doi.org/10.1145/3103010.3121047
+ER  - 
+
+TY  - CONF
+AU  - RODRIGUES, KAMILA R.H. ; VIEL, CAIO C. ; ZAINE, ISABELA ; CUNHA, BRUNA C.R. ; SCALCO, LEONARDO F. ; PIMENTEL, MARIA G.C.
+T1  - Data Collection and Intervention Personalized as Interactive Multimedia Documents
+TI  - 23rd Brazillian Symposium on Multimedia and the Web, 2017, Gramado. Proceedings of the 23rd Brazillian Symposium on Multimedia and the Web - WebMedia '17
+VL  - 
+SP  - 57
+EP  - 
+PY  - 2017
+L2  - http://dx.doi.org/10.1145/3126858.3131574
+ER  - 
+
+TY  - CONF
+AU  - USCAMAYTA, A. OMAR M. ; CUNHA, BRUNA C.R. ; MARTINS, DIOGO S. ; PIMENTEL, MARIA G.
+T1  - Collaborative Ad-hoc Multimedia Authoring via Mobile Devices
+TI  - 23rd Brazillian Symposium on Multimedia and the Web, 2017, Gramado. Proceedings of the 23rd Brazillian Symposium on Multimedia and the Web - WebMedia '17
+VL  - 
+SP  - 61
+EP  - 
+PY  - 2017
+L2  - http://dx.doi.org/10.1145/3126858.3131572
+ER  - 
+
+TY  - CONF
+AU  - VIEL, CAIO C. ; RODRIGUES, KAMILA R.H. ; ZAINE, ISABELA ; CUNHA, BRUNA C.R. ; SCALCO, LEONARDO F. ; PIMENTEL, MARIA G.C.
+T1  - Personalized Ubiquitous Data Collection and Intervention as Interactive Multimedia Documents
+TI  - the 2017 ACM Symposium, 2017, Valletta. Proceedings of the 2017 ACM Symposium on Document Engineering - DocEng '17
+VL  - 
+SP  - 223
+EP  - 
+PY  - 2017
+L2  - http://dx.doi.org/10.1145/3103010.3121046
+ER  - 
+
+TY  - CONF
+AU  - CUNHA, BRUNA CAROLINA RODRIGUES; PIMENTEL, MARIA DA GRAÇA CAMPOS
+T1  - Monitoring Techniques via Mobile Devices: A Case Study for Supporting Aging in Place
+TI  - 22º Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia' 16), 2016, Teresina - PI. XVI Workshop de Teses e Dissertações (WTD). Porto Alegre - RS: Sociedade Brasileira de Computação (SBC)
+VL  - 2
+SP  - 47
+EP  - 52
+PY  - 2016
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - ZAINE, ISABELA ; RODRIGUES, KAMILA R.H. ; DA CUNHA, BRUNA C.R. ; VIEL, CAIO C. ; ORLANDO, ALEX F. ; MACHADO NETO, OLIBÁRIO J. ; MAGAGNATTO, YURI ; PIMENTEL, MARIA DAS GRAÇAS C.
+T1  - ESPIM
+TI  - the 22nd Brazilian Symposium, 2016
+VL  - 
+SP  - 13
+EP  - 
+PY  - 2016
+L2  - http://dx.doi.org/10.1145/2976796.2988222
+ER  - 
+
+TY  - CONF
 AU  - Homem, Thiago Pedro Donadon; BIANCHI, R. A. C.
 T1  - Investigação dos Métodos de Aprendizado por Reforço e Campos Potenciais Artificiais e aplicação no planejamento da trajetória de robôs humanoides
 TI  - Simpósio de Pesquisa do Grande ABC, 2014, São Bernardo do Campo. Anais do Simpósio de Pesquisa do Grande ABC. São Bernardo do Campo
@@ -1334,6 +2473,39 @@ SP  -
 EP  - 
 PY  - 2014
 L2  - 
+ER  - 
+
+TY  - CONF
+AU  - CUNHA, BRUNA C.R.; MACHADO NETO, OLIBÁRIO J. ; PIMENTEL, MARIA DA GRAÇA
+T1  - MoViA
+TI  - the 2013 ACM symposium, 2013
+VL  - 
+SP  - 219
+EP  - 222
+PY  - 2013
+L2  - http://dx.doi.org/10.1145/2494266.2494267
+ER  - 
+
+TY  - CONF
+AU  - CUNHA, BRUNA CAROLINA RODRIGUES; MACHADO NETO, OLIBARIO J. ; PIMENTEL, MARIA DA GRACA C.
+T1  - A heuristic evaluation of a mobile annotation tool
+TI  - the 19th Brazilian symposium, 2013
+VL  - 
+SP  - 89
+EP  - 
+PY  - 2013
+L2  - http://dx.doi.org/10.1145/2526188.2526232
+ER  - 
+
+TY  - CONF
+AU  - CUNHA, BRUNA C.R.; PEDROSA, DIOGO ; GOULARTE, RUDINEI ; PIMENTEL, MARIA DA GRAÇA CAMPOS
+T1  - Video annotation and navigation on mobile devices
+TI  - the 18th Brazilian symposium, 2012
+VL  - 
+SP  - 261
+EP  - 
+PY  - 2012
+L2  - http://dx.doi.org/10.1145/2382636.2382691
 ER  - 
 
 TY  - CONF
@@ -1450,6 +2622,42 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - SANTOS, M. A. M. ; FERREIRA, R. S. ; BASILE, F. R. M. ; ZADI, I. C.
+T1  - Análise comparativa de técnicas de aprendizagem de máquina para classificação de materiais descartáveis
+TI  - 13º CONGRESSO DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO IFSP, 2022, São Paulo. CONFERÊNCIAS DO IFSP, 13º CONGRESSO DE INOVAÇÃO, CIÊNCIA E TECNOLOGIA DO IFSP
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 2022
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, N. T.; LOPEZ, L. J. R. ; BASILE, F. R. M.
+T1  - Forense computacional como estratégia para investigação de incidentes de crimes cibernéticos em telemedicina
+TI  - Congresso de Inovação, Ciência e Tecnologia do IFSP, 2019, Sorocaba. Anais do Congresso de Inovação, Ciência e Tecnologia do IFSP
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 2019
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, N. T.; REISER, F. C. ; ERVILHA, U. F. ; AOKI, M. S. ; MOCHIZUKI, L.
+T1  - World-class athlete: comparison among 12 blocks of 6-arrows in archery
+TI  - XVIII Congresso Brasileiro de Biomecânica, II Encontro Latino Americano de Biomecânica, 2019, Manaus. Anais do XVIII Congresso Brasileiro de Biomecânica
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 2019
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - HOMEM, THIAGO P.D.; PERICO, DANILO H. ; Santos, Paulo E. ; BIANCHI, R. A. C. ; de Mantaras, Ramon L.
 T1  - Qualitative Case-Based Reasoning for Humanoid Robot Soccer
 TI  - Twenty-Fifth International Conference on Case-Based Reasoning (ICCBR 2017), 2017, Trondheim, Norway. Proceedings of the 24th International Conference on Case-Based Reasoning. Trondheim, Norway
@@ -1462,9 +2670,93 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - MACHADO, N. T.; REISER, F. C. ; VALTNER, T. T. ; SANTOS, E. S. P. ; ERVILHA, U. F. ; AOKI, M. S. ; MAGALHAES, F. H. ; MOCHIZUKI, L.
+T1  - Analysis of muscle activity of forearm of the best woman archer of brazilian time in the last Olympic Games
+TI  - XVII Congresso Brasileiro de Biomecânica, I Encontro Latino Americano de Biomecânica e VIII Simpósio em Neuromecânica Aplicada, 2017, Porto Alegre. Anais do XVII Congresso Brasileiro de Biomecânica, I Encontro Latino Americano de Biomecânica e VIII Simpósio em Neuromecânica Aplicada
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 2017
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - BAGÉ, I. B.; LIMA, M. A. G.
+T1  - A Trigonometria nas Marés: Uma proposta de trabalho com funções cosseno e seno utilizando as tecnologias digitais
+TI  - XIX Conferência GPIMEM: Pesquisa e Formação, 2016, Rio Claro. Anais da XIX Conferência do GPIMEM. Rio Claro
+VL  - 1
+IS  - 
+SP  - 1
+EP  - 1
+PY  - 2016
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, N. T.; REISER, F. C. ; SANTOS, E. S. P. ; VALTNER, T. T. ; ERVILHA, U. F. ; AOKI, M. S. ; MAGALHAES, F. H. ; MOCHIZUKI, L.
+T1  - Anticipatory postural adjustments in upper limb of recurve archery
+TI  - International Convention on Science, Education and Medicine in Sport, 2016, Santos. Annals of Congress International Convention on Science, Education and Medicine in Sport
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 2016
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, N. T.; REISER, F. C. ; SANTOS, E. S. P. ; VALTNER, T. T. ; ERVILHA, U. F. ; AOKI, M. S. ; MAGALHAES, F. H. ; MOCHIZUKI, L.
+T1  - Coordination of trunk in archers
+TI  - International Convention on Science, Education and Medicine in Sport, 2016, Santos. Annals of Congress International Convention on Science, Education and Medicine in Sport
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 2016
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - PIMENTEL, MARIA DA GRACA C. ; ROCHA, A. C. ; CUNHA, BRUNA CAROLINA RODRIGUES ; ORLANDO, ALEX F. ; MACHADO NETO, OLIBARIO J. ; VIEL, CAIO C. ; ANTUNES, E. ; ZAINE, ISABELA
+T1  - Apoio ao envelhecimento no lugar por meio de amostragem de experiências e de intervenção programada
+TI  - I Congresso Brasileiro de Gerontecnologia, 2016, Ribeirão Preto. Revista da Faculdade de Medicina de Ribeirão Preto e do Hospital das Clínicas da FMRP-USP - suplemento 2
+VL  - 49
+IS  - 
+SP  - 11
+EP  - 12
+PY  - 2016
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, N. T.; REISER, F. C. ; SANTOS, E. S. P. ; VALTNER, T. T. ; ERVILHA, U. F. ; AOKI, M. S. ; MAGALHAES, F. H. ; MOCHIZUKI, L.
+T1  - Biomechanics of Archery: Muscle Activation in Begginer and Experienced Archers
+TI  - XVI Congresso Brasileiro de Biomecânica e VI Simpósio em Neuromecânica Aplicada, 2015, Florianópolis. Anais do XVI Congresso Brasileiro de Biomecânica e VI Simpósio em Neuromecânica Aplicada
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 2015
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - FERREIRA, V. T. ; HOMEM, Thiago Pedro Donadon
 T1  - Robótica Educacional: Investigação e Implementação em Plataformas Abertas e Fechadas
 TI  - II Congresso de Iniciação Científica do IFSP Itapetininga, 2014, Itapetininga. Anais do II Congresso de Iniciação Científica do IFSP Itapetininga. Itapetininga
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 2014
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - TERUYA, T. T. ; MACHADO, N. T. ; AMADIO, A. C. ; SERRAO, J. C. ; MOCHIZUKI, L.
+T1  - Flexão de braço tradicional em superfície estável e suspensão: estudo piloto de uma comparação na atividade eletromiográfica
+TI  - 37º Simpósio Internacional de Ciências do Esporte, 2014. 37º Simpósio Internacional de Ciências do Esporte
 VL  - 
 IS  - 
 SP  - 
@@ -1498,6 +2790,18 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - BASILE, F.R.M. ; LOPEZ, L. J. R. ; AMATE, F.C.
+T1  - MÉTODO PARA TRANSMISSÃO SEGURA DE INFORMAÇÕES MÉDICAS DE APLICATIVOS MÓVEIS EM SAÚDE EM TELEMEDICINA
+TI  - VI Congresso Brasileiro de Telemedicina e Telessaúde, 2013, São Paulo. Edição Suplementar: 6o Congresso Brasileiro de Telemedicina e Telessaúde
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 2013
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - FLORENTINO, H. O. ; ISLER, P. R. ; RAMOS, R. P. ; NERVIS, J. J. ; HOMEM, Thiago Pedro Donadon
 T1  - Modelo Matemático para plantio e colheita da cana-de-açúcar
 TI  - Congresso de Matemática Aplicada e Computacional - CMAC SE, 2013, Bauru, SP. Anais do Congresso de Matemática Aplicada e Computacional - CMAC - SE
@@ -1517,6 +2821,42 @@ VL  - 1
 IS  - 
 SP  - 201
 EP  - 211
+PY  - 2013
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - LOURENCO, F. S. ; SOUZA, M. F. ; MACHADO, N. T. ; SANTOS, B. I. B. ; MATHEUS, L. ; MOCHIZUKI, L.
+T1  - Desempenho no Salto Vertical com e sem Calçado
+TI  - III Encontro Paulista de Comportamento Motor, 2013. Brazilian Journal of Motor Behavior
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 2013
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - MACHADO, N. T.; LOURENCO, F. S. ; SILVA, F. C. ; CORREIA, G. R. P. ; ERVILHA, U. F. ; MOCHIZUKI, L.
+T1  - Modelo massa mola em atletas olímpicos nos 100 metros do atletismo
+TI  - 36º Simpósio Internacional de Ciências do Esporte, 2013. 36º Simpósio Internacional de Ciências do Esporte
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 2013
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - QUIRINO, E. M. ; AMATE, F.C.
+T1  - APLICATIVO PARA DISPOSITIVOS PORTÁTEIS PARA APOIO EM OCORRÊNCIAS DE ATENDIMENTO PRÉ-HOSPITALAR DO CORPO DE BOMBEIROS
+TI  - VI Congresso Brasileiro de Telemedicina e Telessaúde, 2013, São Paulo. Edição Suplementar: 6o Congresso Brasileiro de Telemedicina e Telessaúde
+VL  - 
+IS  - 
+SP  - 
+EP  - 
 PY  - 2013
 L2  - 
 ER  - 
@@ -1558,6 +2898,18 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - BAGÉ, I. B.; Almouloud, S.A ; COUTINHO, C. ; F.SILVA, M. J. ; Santos, L. ; Luz, V.A ; Oliveira, A. A ; Bathaus, A.M. ; BORGES, C. F. ; Teixeira, A.C
+T1  - Estatística com Geogebra 3.2
+TI  - III SHIAM Seminário de Histórias e Investigações de/em Aulas de Matemática, 2010, Campinas. III SHIAM Seminário de Histórias e Investigações de/em Aulas de Matemática - Cadernos de Resumos. Campinas: FE - UNICAMP
+VL  - 1
+IS  - 
+SP  - 31
+EP  - 32
+PY  - 2010
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - FLORENTINO, Helenice de Oliveira ; HOMEM, Thiago Pedro Donadon ; BALBO, Antonio Roberto ; LIMA, A. D.
 T1  - An Application of the Hybrid Interior Points and Branch and Bound Methods on the sugarcane Waste Problem
 TI  - Alio Informs International 2010, 2010, Buenos Ayres. Proceedings of Alio Informs International 2010
@@ -1582,6 +2934,30 @@ L2  -
 ER  - 
 
 TY  - CONF
+AU  - ARPINI, F. M. ; AMATE, F.C.
+T1  - Modelo computacional interativo de um posto de trabalho de uma secretária
+TI  - XVIII COBRAF - Congresso Brasileiro de Fisioterapia, 2009, Rio de Janeiro. XVIII COBRAF - Congresso Brasileiro de Fisioterapia
+VL  - 
+IS  - 
+SP  - 
+EP  - 
+PY  - 2009
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - BAGÉ, I. B
+T1  - Proposta para a prática do professor do ensino fundamental I de noções básicas de geometria com o uso de tecnologias
+TI  - IX Encontro de Pesquisa em Educação da Região Sudeste, 2009, São Carlos. Pesquisa em Educação no Brasil: Balanço do Século XX e desafios para o Século XXI. São Carlos: Cubo Multimídia
+VL  - 1
+IS  - 
+SP  - 144
+EP  - 144
+PY  - 2009
+L2  - 
+ER  - 
+
+TY  - CONF
 AU  - Viana, R. S. ; FLORENTINO, Helenice de Oliveira ; FONSECA FILHO, P. R. ; HOMEM, Thiago Pedro Donadon ; LIMA, E. A. B. F.
 T1  - Um planejamento otimizado em tomoterapia por programação linear com correção de heterogeneidades
 TI  - IV Congresso de Física Aplicada à Medicina, 2008, Botucatu. Anais do IV Congresso de Física Aplicada à Medicina
@@ -1590,5 +2966,29 @@ IS  -
 SP  - 
 EP  - 
 PY  - 2008
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - BOCHI, Silvia Regina Matos da Silva ; AMATE, F.C. ; NETO, V. P. ; FRÈRE, Annie France
+T1  - Desenvolvimento de jogos musicais computadorizados para auxiliar a reabilitação de crianças com ataxia. Acta Fisiátrica, São Paulo
+TI  - 
+VL  - 9, n.1
+IS  - 
+SP  - 20
+EP  - 20, 2002
+PY  - 2002
+L2  - 
+ER  - 
+
+TY  - CONF
+AU  - SOUZA, S.R.S. ; AMATE, F.C. ; KOMATSU, E. M. ; FRÈRE, Annie France
+T1  - Aparelho para avaliação dos movimentos dos membros superiores de crianças atáxicas em fase de alfabetização. Acta Fisiátrica, São Paulo
+TI  - 
+VL  - 9, n.1
+IS  - 
+SP  - 35
+EP  - 35, 2002
+PY  - 2002
 L2  - 
 ER  - 
