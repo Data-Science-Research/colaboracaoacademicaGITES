@@ -1,5 +1,5 @@
 nodedef> name VARCHAR, idLattes VARCHAR, label VARCHAR, rotulo VARCHAR, lat DOUBLE, lon DOUBLE, collaborationRank DOUBLE, producaoBibliografica DOUBLE, artigoEmPeriodico DOUBLE, livro DOUBLE, capituloDeLivro DOUBLE, trabalhoEmCongresso DOUBLE, resumoExpandido DOUBLE, resumo DOUBLE, posDoutorado DOUBLE, dutorado DOUBLE, mestrado DOUBLE, ic DOUBLE, color VARCHAR
-0,5813261133047060,Adriano Jose Ferruzzi,[Sem rotulo],,,1.0,9,3,0,0,1,3,2,0,0,0,1,'10,110,164'
+0,5813261133047060,Adriano Jose Ferruzzi,[Sem rotulo],,,0.97702706,9,3,0,0,1,3,2,0,0,0,1,'10,110,164'
 1,1741814375809802,André Luiz Favareto,[Sem rotulo],,,0.15,1,0,0,0,1,0,0,0,0,0,0,'10,110,164'
 2,9543740522912391,Fabio Oliveira Teixeira,[Sem rotulo],,,0.376946,46,16,0,1,17,8,4,0,0,0,0,'10,110,164'
 3,6413817150886826,Felipe Rodrigues Martinez Basile,[Sem rotulo],,,2.8491418,25,14,1,2,5,2,1,0,0,0,5,'10,110,164'
@@ -7,11 +7,11 @@ nodedef> name VARCHAR, idLattes VARCHAR, label VARCHAR, rotulo VARCHAR, lat DOUB
 5,0255523082900191,Idalise Bernardo Bagé,[Sem rotulo],,,0.15,17,6,2,0,6,0,3,0,0,0,0,'10,110,164'
 6,0150761926799891,Igor Calebe Zadi,[Sem rotulo],,,1.292608,5,1,0,2,1,0,1,0,0,0,0,'10,110,164'
 7,8754322948547165,Luiz Roberto Albano Junior,[Sem rotulo],,,0.75544274,0,0,0,0,0,0,0,0,0,0,0,'10,110,164'
-8,8291123108448027,Regivaldo Sousa Ferreira,[Sem rotulo],,,1.0,6,0,0,0,0,6,0,0,0,0,0,'10,110,164'
+8,8291123108448027,Regivaldo Sousa Ferreira,[Sem rotulo],,,1.4594593,8,2,0,0,0,6,0,0,0,0,0,'10,110,164'
 9,0270118728577579,Renato Cristiano Montanher,[Sem rotulo],,,1.218127,7,1,0,2,4,0,0,0,0,0,0,'10,110,164'
 10,7290375482443455,Alex Sandro Rodrigues Ancioto,[Sem rotulo],,,0.3697434,4,0,0,0,4,0,0,0,0,0,0,'10,110,164'
 11,5631261956953546,Bruna Carolina Rodrigues da Cunha,[Sem rotulo],,,0.15,31,6,0,3,11,10,1,0,0,0,1,'10,110,164'
-12,5904768897181890,Rogério Aparecido Campanari Xavier,[Sem rotulo],,,0.15,6,1,0,1,4,0,0,0,0,0,0,'10,110,164'
+12,5904768897181890,Rogério Aparecido Campanari Xavier,[Sem rotulo],,,0.5635135,6,1,0,1,4,0,0,0,0,0,0,'10,110,164'
 13,6109272293288485,Thiago Pedro Donadon Homem,[Sem rotulo],,,0.80098593,44,11,0,3,14,8,8,0,0,0,3,'10,110,164'
 14,0112108049902805,Nadjila Tejo Machado,[Sem rotulo],,,0.30050984,16,3,2,0,0,2,9,0,0,0,0,'10,110,164'
 15,4323140190774391,Leonardo Juan Ramirez Lopez,[Sem rotulo],,,0.4518705,44,22,2,4,13,1,2,0,0,0,0,'10,110,164'
@@ -28,4 +28,5 @@ edgedef> node1 VARCHAR, node2 VARCHAR, weight DOUBLE
 4,15,1.0
 6,9,4.0
 6,10,1.0
+8,12,1.0
 9,13,1.0
